@@ -1,0 +1,875 @@
+brands,models,years,prices,variants,km_driven,fuel_types,transmissions,rto_codes,locations
+Volkswagen,Virtus,2023,15.81 Lakh,GT Plus 1.5 TSI EVO DSG,13.5K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Skoda,Slavia,2022,11.32 Lakh,Style 1.0L TSI MT,64.5K km,Petrol,Manual,TS07,"Latest cars, 3 year warranty"
+Renault,Kwid,2023,4.27 Lakh,RXT 1.0 AMT,25K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Maruti,Grand i10 Nios,2022,8.15 Lakh,Alpha,57K km,Petrol,Manual,TS15,"High quality, less driven"
+Hyundai,Baleno,2023,6.01 Lakh,Sportz 1.2 Kappa VTVT Dual Tone,33.5K km,Petrol,Manual,TS09,"Phoenix Trivium, Hafeezpet"
+Maruti,Tiago,2017,5.69 Lakh,Zeta 1.2,7.5K km,Petrol,Manual,TS10,"High quality, less driven"
+Tata,Creta,2021,5.22 Lakh,XTA,47K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,XL6,2022,14.32 Lakh,SX 1.5 Diesel,37.5K km,Diesel,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Swift,2021,9.15 Lakh,Zeta AT Petrol,61.5K km,Petrol,Automatic,TS12,"High quality, less driven"
+Maruti,City,2019,5.02 Lakh,VXi,49.5K km,Petrol,Manual,TS08,"Phoenix Trivium, Hafeezpet"
+Honda,Jazz,2014,4.55 Lakh,SV,76K km,Petrol,Manual,AP28,"High quality, less driven"
+Honda,Ciaz,2015,3.62 Lakh,S MT,83.5K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,Alto 800,2015,4.99 Lakh,VXi+ AT,131K km,Petrol,Automatic,TS07,"High quality, less driven"
+Maruti,Venue,2020,2.67 Lakh,LXi,78.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Alto 800,2023,8.92 Lakh,SX 1.5 CRDi,62K km,Diesel,Manual,TS18,"High quality, less driven"
+Maruti,Alto 800,2015,2.34 Lakh,Lxi,53.5K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Verna,2014,2.31 Lakh,Lxi,46.5K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Hyundai,Elite i20,2014,3.93 Lakh,Fluidic 1.6 CRDi SX,95.5K km,Diesel,Manual,AP10,"Phoenix Trivium, Hafeezpet"
+Hyundai,Vento,2015,4.37 Lakh,Asta 1.2,122K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Volkswagen,X1,2021,7.05 Lakh,Highline Plus 1.0L TSI Automatic,79.5K km,Petrol,Automatic,TS10,"DSL Virtue Mall, Uppal"
+BMW,Q3,2016,37.90 Lakh,Technology,60K km,Diesel,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Audi,Ertiga,2023,6.68 Lakh,VDI SHVS,23.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Santro,2016,3.87 Lakh,Magna,84K km,Diesel,Manual,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Baleno,2019,6.31 Lakh,Zeta 1.2 AT,46K km,Petrol,Manual,AP39,"Phoenix Trivium, Hafeezpet"
+Maruti,Brezza,2018,9.37 Lakh,Zxi Dual Tone,15.5K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Maruti,i20,2023,7.98 Lakh,Asta ,49.5K km,Petrol,Manual,TS08,"High quality, luxury cars"
+Hyundai,Kwid,2024,2.46 Lakh,RXL,60K km,Petrol,Automatic,TG05,"Nexus Sujana Mall, Kukatpally"
+Renault,Scorpio N,2016,17.74 Lakh,Z8 L Diesel MT 2WD 7 STR,37K km,Petrol,Manual,TS12,"High quality, luxury cars"
+Mahindra,Seltos,2023,10.90 Lakh,GTX Plus DCT 1.4,36K km,Diesel,Manual,TS07,"DSL Virtue Mall, Uppal"
+Kia,Alto 800,2019,3.56 Lakh,VXi,84K km,Petrol,Automatic,TS09,"High quality, less driven"
+Maruti,Grand i10,2022,4.03 Lakh,Asta 1.2 Kappa VTVT,24K km,Petrol,Manual,TS08,"High quality, less driven"
+Hyundai,Baleno,2015,4.80 Lakh,Zeta 1.2,79K km,Petrol,Manual,TS02,"DSL Virtue Mall, Uppal"
+Maruti,Creta,2017,8.68 Lakh,S Plus 1.6 AT CRDI,78K km,Petrol,Manual,TS08,"Phoenix Trivium, Hafeezpet"
+Hyundai,Altroz,2018,6.32 Lakh,XT i,100K km,Diesel,Automatic,TS07,"High quality, less driven"
+Tata,Kiger,2022,5.92 Lakh,RXZ AMT,27.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Renault,Rapid,2022,6.10 Lakh,Style 1.6 MPI AT,88.5K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Skoda,Swift,2019,4.14 Lakh,VDi,65.5K km,Petrol,Automatic,AP39,"Nexus Sujana Mall, Kukatpally"
+Maruti,Figo,2014,2.43 Lakh,Duratorq Diesel Titanium 1.4,68K km,Diesel,Manual,AP16,"High quality, less driven"
+Ford,Xcent,2013,3.42 Lakh,S 1.2 ,106.5K km,Diesel,Manual,AP28,"DSL Virtue Mall, Uppal"
+Hyundai,Figo Aspire,2014,4.51 Lakh,Titanium 1.2 Ti,57K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Ford,Compass,2019,11.20 Lakh,Sport 2.0 Diesel,54K km,Petrol,Manual,AP39,"Phoenix Trivium, Hafeezpet"
+Jeep,Alto 800,2020,3.44 Lakh,VXi,70.5K km,Diesel,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,XL6,2022,11.42 Lakh,Alpha MT Petrol,23K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Maruti,Alto 800,2024,3.79 Lakh,Vxi Plus,24K km,Petrol,Manual,TG07,"Nexus Sujana Mall, Kukatpally"
+Maruti,Swift,2022,7.17 Lakh,ZXi Plus AMT,26K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,Grand i10,2022,3.91 Lakh,Sportz 1.2 Kappa VTVT,47.5K km,Petrol,Automatic,TS07,"High quality, less driven"
+Hyundai,Ignis,2015,4.75 Lakh,Zeta 1.2 AMT,67.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Maruti,Grand i10 Nios,2018,6.38 Lakh,Asta 1.2 Kappa VTVT,53.5K km,Petrol,Automatic,TS07,"Phoenix Trivium, Hafeezpet"
+Hyundai,Hector,2022,11.41 Lakh,Sharp 1.5 DCT Petrol Dual Tone,28.5K km,Petrol,Manual,TS10,"DSL Virtue Mall, Uppal"
+MG,Amaze,2020,4.60 Lakh,VXi S,53K km,Petrol,Automatic,TS08,"High quality, less driven"
+Maruti,XL6,2023,3.80 Lakh,1.5 S i,35.5K km,Cng,Manual,AP39,"DSL Virtue Mall, Uppal"
+Honda,Elite i20,2015,11.22 Lakh,Alpha Plus AT Petrol,88K km,Diesel,Manual,AP31,"Nexus Sujana Mall, Kukatpally"
+Maruti,Verna,2022,4.84 Lakh,Sportz 1.4 ,44K km,Petrol,Automatic,TG07,"DSL Virtue Mall, Uppal"
+Hyundai,Jazz,2015,3.90 Lakh,Fluidic 1.6 CRDi SX,100K km,Diesel,Manual,TS07,"High quality, less driven"
+Hyundai,Jazz,2013,4.55 Lakh,VX Petrol,62.5K km,Diesel,Manual,AP11,"DSL Virtue Mall, Uppal"
+Honda,i20 N Line,2016,4.69 Lakh,N8 1.0 Turbo DCT,74.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Honda,Alto 800,2016,9.38 Lakh,LXi,106K km,Petrol,Manual,AP05,"DSL Virtue Mall, Uppal"
+Hyundai,Rapid,2023,2.66 Lakh,Ambition 1.6 TDI CR MT Plus,45K km,Petrol,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Maruti,Santro,2019,3.49 Lakh,Sportz AMT,75.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Skoda,XC60,2013,4.38 Lakh,Momentum D4,97K km,Diesel,Manual,AP09,"Nexus Sujana Mall, Kukatpally"
+Hyundai,New i20,2021,18.90 Lakh,Asta ,117.5K km,Petrol,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Volvo,Punch,2017,8.42 Lakh,Accomplished Dazzle Sunroof CNG,54K km,Diesel,Automatic,TS09,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Seltos,2021,7.83 Lakh,HTX 1.5 IVT,38K km,Petrol,Automatic,TS10,"High quality, luxury cars"
+Tata,Ignis,2024,13.50 Lakh,Zeta 1.2 MT,74.5K km,Cng,Manual,TG17,"DSL Virtue Mall, Uppal"
+Kia,Seltos,2022,5.19 Lakh,GTX Plus DCT 1.4,28K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Alcazar,2021,13.06 Lakh,Signature 6 STR 1.5 Diesel,19.5K km,Petrol,Manual,TS12,"High quality, less driven"
+Kia,Magnite,2021,14.72 Lakh,XV Premium Turbo CVT,67K km,Petrol,Automatic,TS08,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Seltos,2023,9.13 Lakh,RXZ Turbo CVT Dual Tone,81.5K km,Diesel,Manual,TS07,"High quality, less driven"
+Nissan,Kiger,2024,8.08 Lakh,ZX Petrol,12.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Kia,City,2022,10.38 Lakh,S MT,27.5K km,Petrol,Automatic,TS09,"High quality, less driven"
+Renault,Brio,2022,2.42 Lakh,LXi CNG,29K km,Petrol,Automatic,TS10,"DSL Virtue Mall, Uppal"
+Honda,Alto 800,2023,2.63 Lakh,VXi,75K km,Petrol,Manual,TS03,"High quality, less driven"
+Honda,Kwid,2013,3.13 Lakh,RXT,75K km,Petrol,Manual,AP09,"Nexus Sujana Mall, Kukatpally"
+Maruti,Kiger,2011,2.55 Lakh,RXZ Turbo CVT Dual Tone,76K km,Cng,Manual,AP28,"Phoenix Trivium, Hafeezpet"
+Maruti,Kwid,2021,6.95 Lakh,CLIMBER 1.0,84.5K km,Petrol,Manual,TS35,"Nexus Sujana Mall, Kukatpally"
+Renault,Seltos,2017,2.69 Lakh,GTX Plus DCT 1.4,92.5K km,Petrol,Manual,TS13,"High quality, less driven"
+Renault,Grand i10,2021,12.49 Lakh,Sportz 1.2 Kappa VTVT,63.5K km,Petrol,Automatic,TS11,"DSL Virtue Mall, Uppal"
+Renault,Alto 800,2018,3.51 Lakh,LXi,109K km,Petrol,Manual,TS16,"DSL Virtue Mall, Uppal"
+Kia,Wagon R,2020,3.33 Lakh,VXi,92.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Alto 800,2015,2.86 Lakh,S Petrol,132K km,Petrol,Manual,TS04,"DSL Virtue Mall, Uppal"
+Maruti,EcoSport,2021,3.20 Lakh,Topline 1.0 TSI AT,42.5K km,Petrol,Manual,TS16,"DSL Virtue Mall, Uppal"
+Maruti,Virtus,2015,8.06 Lakh,Alpha MT Petrol,26K km,Petrol,Manual,AP05,"Nexus Sujana Mall, Kukatpally"
+Maruti,XL6,2020,11.62 Lakh,VX MT,41K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Ford,Elevate,2020,9.95 Lakh,Vxi,25K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Volkswagen,Alto 800,2022,11.77 Lakh,LXi,86K km,Petrol,Automatic,TS08,"High quality, less driven"
+Maruti,Alto 800,2022,2.43 Lakh,GTX Plus DCT 1.4,68.5K km,Petrol,Manual,TS10,"Nexus Sujana Mall, Kukatpally"
+Honda,Seltos,2023,3.18 Lakh,LXi,40K km,Petrol,Manual,AP40,"High quality, less driven"
+Maruti,Alto 800,2015,13.16 Lakh,ZXI Plus 1.2,72K km,Petrol,Manual,TS15,"Nexus Sujana Mall, Kukatpally"
+Maruti,Wagon R,2020,3.44 Lakh,VDi AMT,31K km,Petrol,Manual,TS08,"High quality, less driven"
+Kia,Dzire,2021,5.34 Lakh,SX ,54.5K km,Petrol,Automatic,TS10,"DSL Virtue Mall, Uppal"
+Maruti,Creta,2021,5.60 Lakh,VX MT,11.5K km,Petrol,Manual,TS11,"High quality, less driven"
+Maruti,Brio,2022,12.92 Lakh,Titanium 1.5L TDCi,29.5K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,EcoSport,2018,3.31 Lakh,HTX IVT 1.5,118.5K km,Diesel,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,Seltos,2021,6.33 Lakh,Lxi,107K km,Diesel,Manual,TS07,"High quality, less driven"
+Honda,Alto K10,2016,9.94 Lakh,LXi CNG,90.5K km,Petrol,Manual,AP31,"DSL Virtue Mall, Uppal"
+Ford,Alto 800,2018,2.24 Lakh,Magna +,118.5K km,Diesel,Manual,TS08,"High quality, less driven"
+Kia,Eon,2021,1.98 Lakh,Sportz 1.2,114K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Elite i20,2016,2.71 Lakh,VXi,113K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Maruti,Alto 800,2014,2.38 Lakh,VX Petrol,62K km,Petrol,Manual,TS13,"DSL Virtue Mall, Uppal"
+Maruti,Jazz,2013,4.96 Lakh,GTX DCT 1.4,97K km,Cng,Manual,AP09,"DSL Virtue Mall, Uppal"
+Hyundai,Seltos,2014,3.25 Lakh,LXi,50.5K km,Petrol,Manual,AP28,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Alto 800,2015,4.60 Lakh,Style 2.0,53.5K km,Petrol,Manual,TS10,"Phoenix Trivium, Hafeezpet"
+Maruti,Octavia,2022,11.03 Lakh,X Line 1.5 Diesel AT,52.5K km,Petrol,Manual,TS15,"DSL Virtue Mall, Uppal"
+Honda,Creta,2015,2.43 Lakh,ZXi Plus AMT,70.5K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Kia,Sonet,2019,20.85 Lakh,ZXi Plus,72.5K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Maruti,Dzire,2017,8.72 Lakh,ZXi Plus,57K km,Petrol,Manual,TS11,"Nexus Sujana Mall, Kukatpally"
+Skoda,Dzire,2021,13.32 Lakh,XZ Plus Diesel,20.5K km,Petrol,Automatic,TS07,"High quality, less driven"
+Hyundai,Brezza,2019,5.48 Lakh,VXi 1.2 BS,75.5K km,Petrol,Manual,TS09,"DSL Virtue Mall, Uppal"
+Kia,i10,2023,5.98 Lakh,Platinum 7 STR 1.5 Diesel,34.5K km,Diesel,Automatic,TS16,"Nexus Sujana Mall, Kukatpally"
+Maruti,Nexon,2017,10.07 Lakh,VXi,84.5K km,Petrol,Automatic,TS10,"High quality, less driven"
+Maruti,Alto 800,2021,2.25 Lakh,VXI,51.5K km,Petrol,Manual,AP39,"Phoenix Trivium, Hafeezpet"
+Maruti,Swift,2022,6.41 Lakh,Vxi,48.5K km,Petrol,Manual,TS24,"DSL Virtue Mall, Uppal"
+Hyundai,Alcazar,2011,2.26 Lakh,1.2 VX AT i,38.5K km,Petrol,Manual,AP23,"DSL Virtue Mall, Uppal"
+Tata,Alto K10,2017,2.90 Lakh,Vxi Plus,91K km,Diesel,Manual,TS08,"High quality, less driven"
+Maruti,Wagon R,2017,14.15 Lakh,Sportz 1.2 Kappa VTVT,43.5K km,Petrol,Manual,AP05,"Nexus Sujana Mall, Kukatpally"
+Maruti,Alto 800,2011,2.48 Lakh,RXT,66.5K km,Petrol,Manual,AP30,"DSL Virtue Mall, Uppal"
+Hyundai,Amaze,2022,3.26 Lakh,RXZ Turbo CVT Dual Tone,96K km,Diesel,Manual,AP39,"DSL Virtue Mall, Uppal"
+Maruti,Alto 800,2016,2.33 Lakh,LXi ,80K km,Petrol,Manual,TS06,"Nexus Sujana Mall, Kukatpally"
+Maruti,Grand i10 Nios,2016,4.89 Lakh,Highline 1.0 TSI AT,99K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Maruti,Kwid,2014,3.20 Lakh,LXi,58.5K km,Petrol,Manual,TS08,"Phoenix Trivium, Hafeezpet"
+Honda,Kiger,2016,5.97 Lakh,ZX CVT Petrol,79.5K km,Petrol,Automatic,TS09,"Phoenix Trivium, Hafeezpet"
+Maruti,Alto 800,2020,3.52 Lakh,GTX Plus DCT 1.4,57.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,Virtus,2022,7.28 Lakh,HTX Plus 1.5 Diesel,36K km,Petrol,Manual,TS02,"DSL Virtue Mall, Uppal"
+Renault,Alto 800,2020,2.44 Lakh,Vxi Plus,23.5K km,Petrol,Manual,TS07,"High quality, less driven"
+Renault,City,2021,12.94 Lakh,VXi,42K km,Petrol,Automatic,TS07,"High quality, less driven"
+Maruti,Seltos,2017,2.88 Lakh,Alpha MT,41.5K km,Petrol,Manual,TS07,"High quality, less driven"
+Volkswagen,Seltos,2024,11.33 Lakh,GTX Plus DCT 1.4,16.5K km,Petrol,Automatic,TS09,"Nexus Sujana Mall, Kukatpally"
+Maruti,Alto 800,2017,12.56 Lakh,RXT,22K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Honda,Alto 800,2022,14.32 Lakh,LXi,84.5K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Kia,Alto K10,2020,3.80 Lakh,V Diesel,78K km,Petrol,Automatic,TS13,"High quality, less driven"
+Kia,Baleno,2022,2.31 Lakh,Titanium 1.5 TDCi ,43.5K km,Diesel,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Maruti,Seltos,2022,2.64 Lakh,SX Plus 1.0 Turbo DCT,20.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Maruti,Kwid,2017,7.18 Lakh,AX 5 Petrol AT 5 STR,93K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Alto 800,2016,11.67 Lakh,Asta,45K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Maruti,City,2022,2.51 Lakh,Sportz,24.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Kia,EcoSport,2020,2.74 Lakh,Signature ,88.5K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Renault,Venue,2016,5.42 Lakh,GTX Plus DCT 1.4,73K km,Petrol,Manual,TS09,"DSL Virtue Mall, Uppal"
+Maruti,XUV700,2019,4.89 Lakh,LXi,42K km,Petrol,Manual,TS16,"Nexus Sujana Mall, Kukatpally"
+Honda,Santro,2014,7.58 Lakh,GTX Plus AT 1.5 Diesel,47K km,Diesel,Manual,AP28,"High quality, less driven"
+Ford,Eon,2015,14.22 Lakh,GTX Plus 1.4 DCT,125K km,Diesel,Manual,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Alcazar,2020,3.90 Lakh,5 STR AC,43.5K km,Petrol,Automatic,AP39,"High quality, less driven"
+Mahindra,Seltos,2021,3.24 Lakh,VX 1.2 Petrol MT,95K km,Petrol,Automatic,AP39,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Alto 800,2019,16.92 Lakh,Magna 1.2,73.5K km,Petrol,Manual,AP39,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Seltos,2018,10.80 Lakh,ZXi AMT,70K km,Petrol,Manual,TS07,"High quality, less driven"
+Hyundai,Seltos,2022,2.81 Lakh,Zeta,46.5K km,Diesel,Automatic,TS07,"High quality, less driven"
+Kia,Eeco,2020,12.77 Lakh,ZXi 1.2 BS,89.5K km,Petrol,Automatic,TS09,"Nexus Sujana Mall, Kukatpally"
+Maruti,Amaze,2017,13.60 Lakh,VXi AMT,27.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Kia,Elite i20,2020,5.14 Lakh,ZXI,79.5K km,Diesel,Automatic,TS13,"Nexus Sujana Mall, Kukatpally"
+Kia,Dzire,2021,7.52 Lakh,Lxi,72K km,Petrol,Automatic,TS08,"High quality, less driven"
+Maruti,Baleno,2023,4.80 Lakh,GTX Plus 1.5 Diesel AT,21.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Honda,Swift,2023,5.18 Lakh,HTX Plus AT 1.5 Diesel,33.5K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Celerio,2015,5.01 Lakh,1.6 SX Plus Petrol,47.5K km,Petrol,Manual,TS07,"High quality, less driven"
+Maruti,Swift Dzire,2017,3.09 Lakh,Lxi,118K km,Petrol,Automatic,TS07,"Phoenix Trivium, Hafeezpet"
+Maruti,Alto 800,2022,3.17 Lakh,ZXi Plus AMT,70.5K km,Petrol,Manual,AP39,"DSL Virtue Mall, Uppal"
+Maruti,Seltos,2011,3.94 Lakh,GTX Plus 1.4,49K km,Petrol,Manual,AP15,"Phoenix Trivium, Hafeezpet"
+Maruti,Seltos,2015,2.15 Lakh,VXi,79.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Creta,2014,15.42 Lakh,SX Plus 1.0 Turbo DCT,42.5K km,Petrol,Manual,AP31,"Phoenix Trivium, Hafeezpet"
+Maruti,Alto 800,2014,13.14 Lakh,CLIMBER AMT,64.5K km,Petrol,Manual,AP02,"Nexus Sujana Mall, Kukatpally"
+Kia,Dzire,2023,7.28 Lakh,Sportz ,118.5K km,Diesel,Automatic,AP40,"Nexus Sujana Mall, Kukatpally"
+Kia,Seltos,2020,2.35 Lakh,1.2 VX AT i,112K km,Diesel,Automatic,TS12,"Phoenix Trivium, Hafeezpet"
+Hyundai,Celerio,2017,6.30 Lakh,XV Premium Turbo ,116K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,Venue,2015,11.26 Lakh,GTX Plus 1.4,23K km,Petrol,Manual,TS07,"High quality, less driven"
+Maruti,Kwid,2017,3.27 Lakh,Sportz 1.2,59K km,Petrol,Automatic,TS10,"DSL Virtue Mall, Uppal"
+Kia,Grand i10,2019,8.89 Lakh,ZDi+ Dual Tone,64K km,Petrol,Manual,TS10,"Phoenix Trivium, Hafeezpet"
+Maruti,Amaze,2015,5.15 Lakh,Magna +,57K km,Petrol,Manual,AP05,"DSL Virtue Mall, Uppal"
+Hyundai,Magnite,2021,4.71 Lakh,Magna 1.1 iRDE2,55K km,Petrol,Automatic,TS07,"High quality, less driven"
+Renault,Seltos,2023,5.19 Lakh,GTX Plus DCT 1.4,18.5K km,Petrol,Automatic,TS07,"High quality, less driven"
+Hyundai,Elite i20,2018,7.26 Lakh,GTX Plus 1.5 AT,21K km,Petrol,Manual,TS07,"High quality, less driven"
+Honda,i10,2017,12.83 Lakh,SX 1.2 ,74.5K km,Petrol,Automatic,AP05,"Nexus Sujana Mall, Kukatpally"
+Nissan,Vitara Brezza,2022,5.77 Lakh,VXi 1.2 BS,31.5K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Kia,Eon,2021,1.90 Lakh,XZA Plus Petrol,24K km,Petrol,Manual,TS07,"High quality, less driven"
+Hyundai,Jazz,2018,6.63 Lakh,Asta 1.2 Kappa VTVT,57.5K km,Petrol,Manual,TS09,"DSL Virtue Mall, Uppal"
+Hyundai,i10,2011,2.10 Lakh,XZA Plus Petrol,73K km,Petrol,Manual,AP31,"Nexus Sujana Mall, Kukatpally"
+Maruti,Seltos,2016,4.43 Lakh,GTX Plus 1.5,78.5K km,Diesel,Manual,TS09,"DSL Virtue Mall, Uppal"
+Hyundai,Sonet,2013,3.09 Lakh,GTX Plus DCT 1.4,59K km,Petrol,Manual,AP29,"DSL Virtue Mall, Uppal"
+Honda,Aura,2016,10.53 Lakh,GTX Plus 1.4 DCT,55.5K km,Petrol,Manual,TS11,"DSL Virtue Mall, Uppal"
+Hyundai,Alto 800,2014,9.23 Lakh,SX 1.5 Diesel,54.5K km,Petrol,Manual,AP05,"DSL Virtue Mall, Uppal"
+Kia,Swift,2019,5.35 Lakh,XV Premium Turbo CVT,106K km,Petrol,Automatic,TS07,"High quality, less driven"
+Kia,Nexon,2022,2.23 Lakh,ZXi AMT,93.5K km,Diesel,Automatic,AP39,"DSL Virtue Mall, Uppal"
+Hyundai,Grand i10,2020,2.88 Lakh,SX,60K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Maruti,Altroz,2017,7.77 Lakh,Sportz 1.2 Kappa2,39.5K km,Petrol,Manual,AP16,"Nexus Sujana Mall, Kukatpally"
+Maruti,Sonet,2011,4.14 Lakh,Zxi Plus Dual Tone,72K km,Petrol,Manual,AP28,"Nexus Sujana Mall, Kukatpally"
+Tata,Seltos,2019,7.22 Lakh,ZXi,56K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Seltos,2016,11.17 Lakh,Asta 1.2 Kappa VTVT,84K km,Petrol,Manual,TS07,"High quality, less driven"
+Tata,Creta,2022,12.23 Lakh,1.0 RXT,22.5K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Kia,Magnite,2022,15.21 Lakh,Sportz 1.2 AT Kappa2,30.5K km,Diesel,Manual,TS07,"High quality, less driven"
+Kia,Celerio,2021,13.40 Lakh,Sportz 1.2 Kappa2,73K km,Petrol,Automatic,TS03,"DSL Virtue Mall, Uppal"
+Kia,Venue,2022,8.81 Lakh,Sportz 1.2 Kappa VTVT,47.5K km,Petrol,Automatic,TS08,"High quality, less driven"
+Hyundai,i10,2021,3.92 Lakh,VXi,56K km,Diesel,Manual,TS08,"DSL Virtue Mall, Uppal"
+Nissan,Brezza,2023,11.42 Lakh,Sportz 1.2 Kappa2,37K km,Petrol,Automatic,TS08,"Phoenix Trivium, Hafeezpet"
+Maruti,Swift,2016,2.16 Lakh,Zeta,61.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Grand i10,2024,9.19 Lakh,SX 1.2 ,14.5K km,Petrol,Automatic,TG07,"DSL Virtue Mall, Uppal"
+Hyundai,Kwid,2011,3.84 Lakh,LXi,66.5K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,i10,2022,3.59 Lakh,Zeta 1.2 MT,122.5K km,Petrol,Manual,TS02,"DSL Virtue Mall, Uppal"
+Maruti,i10,2013,2.79 Lakh,RXZ MT,66K km,Petrol,Manual,AP11,"DSL Virtue Mall, Uppal"
+Hyundai,Grand i10,2015,2.85 Lakh,ZXi AMT,139K km,Petrol,Manual,TS09,"DSL Virtue Mall, Uppal"
+Renault,Swift,2017,3.07 Lakh,Delta 1.2,55K km,Petrol,Manual,TS06,"DSL Virtue Mall, Uppal"
+Hyundai,i10,2011,3.34 Lakh,Alpha Plus MT Petrol,63K km,Petrol,Automatic,AP09,"DSL Virtue Mall, Uppal"
+Hyundai,Baleno,2014,3.50 Lakh,XZA Plus ,59.5K km,Petrol,Manual,AP09,"DSL Virtue Mall, Uppal"
+Hyundai,Aura,2014,2.54 Lakh,HTX 1.5,85K km,Petrol,Manual,TS07,"High quality, less driven"
+Maruti,Alto 800,2013,6.64 Lakh,HTK 1.5 Diesel,82K km,Petrol,Manual,AP28,"DSL Virtue Mall, Uppal"
+Hyundai,Alto 800,2011,7.20 Lakh,SX 1.6 ,57.5K km,Petrol,Manual,AP31,"Nexus Sujana Mall, Kukatpally"
+Maruti,Ignis,2021,3.01 Lakh,1.6 SX Plus Petrol,66K km,Petrol,Manual,TS08,"High quality, less driven"
+Hyundai,Kiger,2023,2.91 Lakh,Asta 1.2,34.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Maruti,Celerio,2019,5.48 Lakh,LX Hard Top Petrol AT 4WD,31.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Maruti,Baleno,2019,6.17 Lakh,GT Plus 1.5 TSI EVO DSG,46K km,Petrol,Manual,TS36,"DSL Virtue Mall, Uppal"
+Maruti,XL6,2023,4.78 Lakh,1.5 TDI CR Style Plus,24K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Renault,Altroz,2022,4.59 Lakh,SX ,51.5K km,Petrol,Manual,AP39,"Nexus Sujana Mall, Kukatpally"
+Maruti,Seltos,2021,11.27 Lakh,GTX Plus AT 1.5 Diesel,79K km,Petrol,Automatic,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,Seltos,2016,8.29 Lakh,VXI AMT,73.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Maruti,Creta,2023,8.92 Lakh,ZXi AMT,32K km,Petrol,Manual,TS30,"Nexus Sujana Mall, Kukatpally"
+Tata,Creta,2023,8.59 Lakh,VXi AMT,21K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Kia,Elite i20,2020,8.04 Lakh,Luxury ,101K km,Petrol,Manual,AP39,"Nexus Sujana Mall, Kukatpally"
+Kia,Thar,2020,7.43 Lakh,S MT,100K km,Diesel,Manual,TS08,"High quality, less driven"
+Hyundai,Virtus,2018,4.07 Lakh,XMA ,118.5K km,Petrol,Manual,AP31,"DSL Virtue Mall, Uppal"
+Hyundai,Rapid,2015,11.81 Lakh,Alpha MT Petrol,104.5K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Hyundai,Creta,2015,12.63 Lakh,Zeta MT Petrol,89.5K km,Petrol,Manual,TS09,"Phoenix Trivium, Hafeezpet"
+Mahindra,Creta,2021,5.59 Lakh,VXi,29K km,Petrol,Automatic,TS09,"Nexus Sujana Mall, Kukatpally"
+Volkswagen,Seltos,2022,12.36 Lakh,ZXi,92.5K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Skoda,Dzire,2016,9.77 Lakh,S MT,114K km,Diesel,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Dzire,2020,13.62 Lakh,XV,91.5K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Carens,2019,4.13 Lakh,Sportz 1.2,96.5K km,Diesel,Automatic,TS09,"High quality, less driven"
+Kia,Jazz,2020,5.32 Lakh,Sportz 1.1 iRDE2,50K km,Diesel,Automatic,TS11,"DSL Virtue Mall, Uppal"
+Maruti,Nexon,2018,5.41 Lakh,Highline Plus 1.0L TSI Automatic,68.5K km,Petrol,Automatic,TS08,"High quality, less driven"
+Maruti,XL6,2017,15.61 Lakh,Sportz 1.2 Kappa VTVT,80K km,Petrol,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Maruti,XL6,2019,4.21 Lakh,Zeta 1.2,77.5K km,Petrol,Automatic,TS13,"DSL Virtue Mall, Uppal"
+Kia,Kwid,2023,8.42 Lakh,SX ,25.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Honda,Alto 800,2016,10.59 Lakh,Fearless Plus S Purple 1.2 Revotron Petrol 6MT Dual Tone,50K km,Petrol,Manual,TS09,"Nexus Sujana Mall, Kukatpally"
+Tata,Swift,2023,10.62 Lakh,Sportz,39.5K km,Petrol,Automatic,TS15,"Nexus Sujana Mall, Kukatpally"
+Maruti,Brio,2022,4.62 Lakh,Creative Plus 1.2 Petrol 6MT Dark Edition,12K km,Petrol,Manual,AP39,"High quality, less driven"
+Maruti,Micra Active,2024,3.46 Lakh,XZ Plus,23.5K km,Petrol,Manual,TS13,"DSL Virtue Mall, Uppal"
+Renault,Elite i20,2022,3.59 Lakh,Alpha 1.5,31.5K km,Petrol,Automatic,TS08,"Latest cars, 3 year warranty"
+Maruti,i10,2023,3.53 Lakh,5 STR AC ,48.5K km,Petrol,Manual,TS09,"DSL Virtue Mall, Uppal"
+Maruti,Vento,2013,3.17 Lakh,XZA Plus ,78K km,Petrol,Manual,AP28,"DSL Virtue Mall, Uppal"
+Honda,Grand i10,2017,4.81 Lakh,SV Petrol,101.5K km,Petrol,Manual,TS11,"Phoenix Trivium, Hafeezpet"
+Nissan,Baleno,2015,2.93 Lakh,Zeta 1.2,61K km,Petrol,Manual,TS07,"High quality, less driven"
+Hyundai,Creta,2017,8.32 Lakh,Asta 1.2 Kappa VTVT,95.5K km,Petrol,Manual,TS13,"DSL Virtue Mall, Uppal"
+Hyundai,Nexon,2014,3.25 Lakh,SV CVT,49.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Volkswagen,Eon,2021,5.17 Lakh,Zeta 1.2,84K km,Petrol,Automatic,TS09,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Nexon,2014,11.73 Lakh,Trend 1.5L Ti,110.5K km,Petrol,Manual,AP26,"High quality, less driven"
+Maruti,Nexon,2017,10.91 Lakh,Sportz AMT,80K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Ciaz,2020,3.18 Lakh,1.2 VX i,106.5K km,Petrol,Automatic,TS13,"DSL Virtue Mall, Uppal"
+Tata,Eeco,2024,10.35 Lakh,ZXi Plus AMT,21.5K km,Petrol,Manual,TS15,"DSL Virtue Mall, Uppal"
+Hyundai,Nexon,2018,6.67 Lakh,RXT 1.0 AMT Opt,45.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Tata,Jazz,2024,8.71 Lakh,VXi,18.5K km,Petrol,Manual,TG08,"DSL Virtue Mall, Uppal"
+Tata,Baleno,2019,4.72 Lakh,GTX Plus AT 1.5 Diesel,48K km,Petrol,Manual,TS13,"Phoenix Trivium, Hafeezpet"
+Maruti,Seltos,2022,8.50 Lakh,LXi,23.5K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,i10,2022,4.72 Lakh,Delta 1.2,42.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Tata,Grand i10,2022,5.81 Lakh,RXZ Turbo CVT Dual Tone,59.5K km,Petrol,Automatic,TS08,"Nexus Sujana Mall, Kukatpally"
+Honda,City,2016,11.46 Lakh,Revotron XZ Plus,53K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Baleno,2019,2.53 Lakh,VXI AMT,28.5K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Kia,EcoSport,2022,5.18 Lakh,RXZ 1.0 Turbo MT Dual Tone,38K km,Petrol,Manual,TS05,"DSL Virtue Mall, Uppal"
+Hyundai,Santro,2012,4.41 Lakh,RXZ MT,43.5K km,Petrol,Manual,AP09,"DSL Virtue Mall, Uppal"
+Hyundai,Amaze,2020,4.72 Lakh,RXT ,40K km,Petrol,Manual,TS15,"DSL Virtue Mall, Uppal"
+Honda,Dzire,2014,5.24 Lakh,Sportz 1.2 Kappa VTVT,86.5K km,Petrol,Automatic,AP28,"DSL Virtue Mall, Uppal"
+Maruti,Kwid,2016,3.69 Lakh,Sportz 1.1 iRDE2,97.5K km,Petrol,Manual,TS04,"DSL Virtue Mall, Uppal"
+Ford,Alto 800,2016,3.52 Lakh,VX CVT Petrol,94.5K km,Petrol,Manual,TS09,"DSL Virtue Mall, Uppal"
+Hyundai,Seltos,2019,5.37 Lakh,T ,108K km,Petrol,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Honda,Seltos,2013,3.72 Lakh,LXi,114K km,Petrol,Manual,AP28,"Nexus Sujana Mall, Kukatpally"
+Maruti,Alto 800,2017,3.40 Lakh,GTX Plus DCT 1.4,112K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Renault,Kwid,2020,11.46 Lakh,Zeta 1.2,29K km,Petrol,Automatic,TS13,"DSL Virtue Mall, Uppal"
+Maruti,Baleno,2021,12.81 Lakh,Magna 1.1 iRDE2,29K km,Petrol,Manual,TS38,"High quality, less driven"
+Kia,Kiger,2022,3.39 Lakh,VXi AMT,38K km,Petrol,Manual,TS05,"DSL Virtue Mall, Uppal"
+Kia,Tiago,2020,3.14 Lakh,Alpha 1.5,86.5K km,Diesel,Automatic,AP39,"High quality, less driven"
+Maruti,Kiger,2021,4.85 Lakh,Alpha 1.2 AT,22K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Renault,Kiger,2018,7.87 Lakh,Asta 1.2,34.5K km,Petrol,Manual,TS07,"High quality, less driven"
+Maruti,Kwid,2016,4.88 Lakh,Zxi Plus Dual Tone,51.5K km,Petrol,Manual,TS09,"High quality, less driven"
+Renault,Grand i10,2022,3.91 Lakh,1.0 RXT AMT,44.5K km,Petrol,Automatic,TS08,"Nexus Sujana Mall, Kukatpally"
+Tata,i10,2019,7.42 Lakh,Zeta 1.2,56K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Maruti,City,2017,6.44 Lakh,Topline 1.0 TSI AT,57K km,Petrol,Automatic,TS09,"High quality, less driven"
+Renault,Alto 800,2022,2.97 Lakh,Topline 1.0 TSI AT,45K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Renault,Seltos,2023,3.75 Lakh,Highline1.2L ,37.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Renault,Baleno,2019,2.72 Lakh,SX Plus 1.0 Turbo DCT,73K km,Petrol,Manual,TS11,"DSL Virtue Mall, Uppal"
+Hyundai,i10,2016,5.78 Lakh,VXi,144K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Celerio,2014,2.35 Lakh,Sigma 1.2 MT,106.5K km,Petrol,Manual,AP03,"DSL Virtue Mall, Uppal"
+Honda,Ciaz,2017,2.81 Lakh,Zeta 1.2,141K km,Petrol,Automatic,TS10,"DSL Virtue Mall, Uppal"
+Datsun,Baleno,2018,10.78 Lakh,Titanium 1.2 Ti,50.5K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Elite i20,2020,4.98 Lakh,Ambiente 1.5 TDCi,49.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Kia,Brezza,2020,2.26 Lakh,LXi,109K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Kwid,2017,3.13 Lakh,Sportz 1.2 Kappa VTVT,100K km,Petrol,Manual,TS07,"High quality, less driven"
+Hyundai,Baleno,2012,8.73 Lakh,RXL Diesel,101K km,Petrol,Manual,AP29,"Nexus Sujana Mall, Kukatpally"
+Maruti,Taigun,2015,6.60 Lakh,Zeta MT Petrol,70K km,Petrol,Automatic,TS07,"High quality, less driven"
+Maruti,Taigun,2022,5.38 Lakh,Alpha 1.2 AT,39.5K km,Petrol,Manual,TS09,"DSL Virtue Mall, Uppal"
+Maruti,Polo,2018,9.95 Lakh,GTX Plus 1.4,37.5K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,Venue,2015,3.76 Lakh,Asta 1.2 Kappa VTVT,38.5K km,Petrol,Manual,AP03,"DSL Virtue Mall, Uppal"
+Maruti,Ignis,2023,5.52 Lakh,RXZ AMT,71K km,Petrol,Manual,TS15,"High quality, less driven"
+Renault,Baleno,2019,12.24 Lakh,ZXi Plus,26.5K km,Petrol,Automatic,TS08,"Phoenix Trivium, Hafeezpet"
+Maruti,Grand i10,2017,12.27 Lakh,HTK Plus 1.5 Diesel,39.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Volkswagen,Freestyle,2022,4.99 Lakh,SX ,60K km,Petrol,Automatic,TS08,"Nexus Sujana Mall, Kukatpally"
+Volkswagen,EcoSport,2022,8.78 Lakh,RXT 1.0 ,54.5K km,Petrol,Automatic,TS08,"High quality, less driven"
+Volkswagen,Alto 800,2017,2.37 Lakh,Sportz 1.2 Kappa2,76.5K km,Petrol,Manual,TS11,"DSL Virtue Mall, Uppal"
+Hyundai,i10,2020,4.37 Lakh,Sportz ,26.5K km,Petrol,Automatic,TS10,"High quality, less driven"
+Maruti,Grand i10,2011,4.84 Lakh,Alpha 1.5 AT,73.5K km,Petrol,Manual,AP28,"DSL Virtue Mall, Uppal"
+Maruti,Captur,2024,3.31 Lakh,VXi,40.5K km,Petrol,Manual,TS10,"DSL Virtue Mall, Uppal"
+Maruti,XL6,2016,4.69 Lakh,ZXi Plus AT Dual Tone,31.5K km,Petrol,Manual,TS15,"DSL Virtue Mall, Uppal"
+Hyundai,Baleno,2014,3.92 Lakh,ZXi ,80K km,Petrol,Manual,AP16,"DSL Virtue Mall, Uppal"
+Ford,Seltos,2019,2.87 Lakh,1.6 SX Plus AT,51.5K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Ford,Grand i10 Nios,2013,3.03 Lakh,Style 1.5L TSI MT,116.5K km,Diesel,Manual,AP09,"DSL Virtue Mall, Uppal"
+Maruti,Kiger,2020,4.28 Lakh,Style 1.5L TSI DSG,86.5K km,Petrol,Manual,TS34,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Kwid,2016,6.20 Lakh,ZXi Plus,108.5K km,Petrol,Manual,AP07,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Celerio,2018,9.49 Lakh,XV,91.5K km,Petrol,Manual,TS03,"Nexus Sujana Mall, Kukatpally"
+Renault,Seltos,2018,6.50 Lakh,HTX Plus 1.5 Diesel,95K km,Diesel,Manual,AP37,"DSL Virtue Mall, Uppal"
+Maruti,Verna,2022,14.15 Lakh,Asta 1.2 ,53.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Maruti,Kwid,2018,6.52 Lakh,RXZ EASY,48K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Kia,i10,2022,7.11 Lakh,XZA Plus Petrol Dark Edtion,27.5K km,Petrol,Manual,TS09,"High quality, less driven"
+Hyundai,Wagon R,2022,4.78 Lakh,SX 1.5 VTVT IVT,26.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Renault,Grand i10,2022,5.75 Lakh,XZA Plus ,18K km,Petrol,Automatic,TS15,"High quality, less driven"
+Renault,Ciaz,2023,10.64 Lakh,Titanium 1.5L TDCi,29.5K km,Petrol,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Maruti,Alto K10,2023,11.71 Lakh,ZXi,22K km,Petrol,Manual,AP40,"High quality, less driven"
+Kia,Vitara Brezza,2022,3.69 Lakh,Sportz 1.4 CRDI,83K km,Diesel,Manual,TS11,"DSL Virtue Mall, Uppal"
+Hyundai,Celerio,2022,2.45 Lakh,1.2 S i,50K km,Petrol,Automatic,TS09,"High quality, less driven"
+Renault,Creta,2022,3.10 Lakh,XE Petrol,30.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Hyundai,Kushaq,2012,4.11 Lakh,Titanium 1.5 TDCi ,58.5K km,Petrol,Manual,AP28,"DSL Virtue Mall, Uppal"
+Maruti,Kushaq,2016,7.12 Lakh,Delta 1.4 AT,50K km,Petrol,Manual,TS09,"DSL Virtue Mall, Uppal"
+Hyundai,Brezza,2017,2.27 Lakh,Sportz 1.1 iRDE2,74K km,Petrol,Manual,AP16,"High quality, less driven"
+Maruti,Magnite,2021,8.40 Lakh,ZXi Plus AMT,92.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Seltos,2013,3.49 Lakh,ZXi Plus AGS,43.5K km,Petrol,Manual,AP28,"High quality, less driven"
+Maruti,Elite i20,2021,8.24 Lakh,V Diesel,95K km,Petrol,Automatic,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,Triber,2018,11.54 Lakh,SX ,97.5K km,Petrol,Automatic,TS07,"High quality, less driven"
+Hyundai,Altroz,2016,11.93 Lakh,GTX Plus 1.0 iMT,107.5K km,Diesel,Automatic,AP16,"DSL Virtue Mall, Uppal"
+Skoda,Verna,2022,9.98 Lakh,S 1.2,51K km,Petrol,Manual,TS09,"DSL Virtue Mall, Uppal"
+Skoda,Creta,2022,5.72 Lakh,Accomplished S 1.2 Revotron Petrol 6MT,102.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Nexon,2022,11.88 Lakh,HTX 1.5,48.5K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Nissan,Brezza,2021,6.86 Lakh,Duratorq Diesel ZXI 1.4,42K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Kia,EcoSport,2020,7.52 Lakh,S Diesel,75K km,Diesel,Manual,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Swift,2019,8.10 Lakh,Duratorq Diesel EXI 1.4,58.5K km,Petrol,Automatic,TS04,"Phoenix Trivium, Hafeezpet"
+Renault,i20,2024,10.49 Lakh,Era 1.1 iRDE2,27.5K km,Petrol,Automatic,TG08,"Phoenix Trivium, Hafeezpet"
+Tata,Amaze,2023,9.18 Lakh,Sportz 1.1 iRDE2,31.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Alto 800,2022,9.71 Lakh,RXT Turbo CVT Dual Tone,62.5K km,Petrol,Automatic,TS10,"Phoenix Trivium, Hafeezpet"
+Hyundai,Grand i10,2019,9.44 Lakh,Lxi CNG,46.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Tata,Micra,2022,4.39 Lakh,VX ,31K km,Petrol,Automatic,TS07,"High quality, less driven"
+Maruti,Baleno,2022,3.26 Lakh,VX 1.2 Petrol MT,28.5K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Ford,EcoSport,2015,3.13 Lakh,LXi,132K km,Diesel,Manual,TS02,"Nexus Sujana Mall, Kukatpally"
+Maruti,Alto 800,2013,3.38 Lakh,Sportz Plus 1.2,104.5K km,Petrol,Manual,AP09,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Ciaz,2012,2.38 Lakh,XV,134.5K km,Diesel,Manual,AP28,"DSL Virtue Mall, Uppal"
+Honda,i10,2013,3.73 Lakh,W8 ,62K km,Petrol,Manual,AP28,"High quality, less driven"
+Maruti,Dzire,2018,2.29 Lakh,W8 1.2 Petrol,26.5K km,Petrol,Manual,AP31,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Dzire,2015,4.78 Lakh,SX Plus 1.6 Petrol,110K km,Petrol,Automatic,TS07,"Latest cars, 3 year warranty"
+Nissan,City,2012,2.13 Lakh,Vxi Plus,64K km,Petrol,Manual,AP26,"Nexus Sujana Mall, Kukatpally"
+Maruti,Verna,2017,6.41 Lakh,SX 1.5 Turbo Petrol MT,66K km,Petrol,Automatic,TS10,"High quality, less driven"
+Ford,Sonet,2014,3.41 Lakh,RXT 1.0,68.5K km,Diesel,Manual,AP12,"Phoenix Trivium, Hafeezpet"
+Maruti,Xcent,2018,5.58 Lakh,CLIMBER 1.0,79K km,Petrol,Manual,AP30,"DSL Virtue Mall, Uppal"
+Maruti,Curvv,2017,8.52 Lakh,Sportz 1.4,42K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,Seltos,2015,5.65 Lakh,Duratec Petrol ZXI 1.2,49.5K km,Petrol,Manual,TS10,"DSL Virtue Mall, Uppal"
+Maruti,Baleno,2017,11.81 Lakh,Asta 1.2 Kappa VTVT,82.5K km,Petrol,Automatic,AP16,"DSL Virtue Mall, Uppal"
+Maruti,Figo,2024,9.20 Lakh,LXi,17K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Honda,Swift,2015,3.97 Lakh,Vxi Plus,74K km,Diesel,Manual,TS09,"Phoenix Trivium, Hafeezpet"
+Hyundai,Figo,2022,14.42 Lakh,LXi,34K km,Petrol,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Kia,i10,2022,11.25 Lakh,Trend+ 1.5L TDCi,46.5K km,Petrol,Manual,AP39,"DSL Virtue Mall, Uppal"
+Hyundai,i10,2015,2.40 Lakh,Sportz 1.2 Kappa VTVT,45K km,Petrol,Manual,TS09,"Phoenix Trivium, Hafeezpet"
+Tata,Kiger,2024,6.59 Lakh,Titanium 1.5L Ti,7K km,Petrol,Manual,TG08,"Latest cars, 3 year warranty"
+Kia,Alto 800,2022,3.60 Lakh,Sharp 2.0 Diesel Turbo MT 6,58.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Maruti,City,2017,2.60 Lakh,XZ Plus ,89K km,Petrol,Manual,TS10,"Nexus Sujana Mall, Kukatpally"
+Ford,Amaze,2012,2.26 Lakh,HTK Plus 1.5,111K km,Diesel,Manual,AP10,"High quality, less driven"
+Honda,Alto 800,2018,2.64 Lakh,Zeta 1.2 AMT,79K km,Diesel,Manual,TS08,"DSL Virtue Mall, Uppal"
+Maruti,Elite i20,2014,5.94 Lakh,Topline 1.0 TSI MT,96K km,Petrol,Manual,AP31,"High quality, less driven"
+Ford,Magnite,2014,2.13 Lakh,XZA Plus ,120.5K km,Diesel,Manual,AP13,"DSL Virtue Mall, Uppal"
+Hyundai,XUV 300,2012,6.25 Lakh,VX CVT 1.2 Petrol,68.5K km,Petrol,Manual,AP11,"DSL Virtue Mall, Uppal"
+Hyundai,XUV 300,2014,7.44 Lakh,X Line 1.4 DCT,91K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Renault,Creta,2021,3.48 Lakh,ZDi Plus AMT,63.5K km,Petrol,Automatic,AP39,"DSL Virtue Mall, Uppal"
+Maruti,Alto 800,2013,6.02 Lakh,SV MT Diesel,108.5K km,Cng,Manual,AP29,"DSL Virtue Mall, Uppal"
+Honda,Verna,2016,5.70 Lakh,LXi BS,94.5K km,Diesel,Manual,TS09,"DSL Virtue Mall, Uppal"
+Honda,Kwid,2023,9.85 Lakh,Sportz 1.2 Kappa VTVT,14K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Kwid,2021,7.66 Lakh,V Petrol,7.5K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Elite i20,2020,8.70 Lakh,Highline Plus 1.0L TSI Automatic,47K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Nissan,Figo,2022,3.57 Lakh,Alpha AT Petrol,57.5K km,Petrol,Manual,AP39,"DSL Virtue Mall, Uppal"
+Mahindra,Grand i10,2021,11.98 Lakh,LXi CNG,36.5K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Mahindra,EcoSport,2021,4.70 Lakh,V CVT Petrol,81K km,Petrol,Manual,TS15,"DSL Virtue Mall, Uppal"
+Hyundai,Alto 800,2017,2.77 Lakh,VX CVT,41.5K km,Petrol,Manual,TS07,"High quality, less driven"
+Maruti,Alto 800,2022,4.61 Lakh,HTX 1.0 iMT,48K km,Petrol,Manual,TS15,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Alto 800,2024,2.22 Lakh,ZX Petrol,42.5K km,Petrol,Manual,TG07,"High quality, less driven"
+Renault,EcoSport,2024,3.86 Lakh,RXZ AMT,7K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Renault,Grand i10,2018,5.76 Lakh,ZX CVT,84K km,Petrol,Manual,TS07,"High quality, less driven"
+Hyundai,EcoSport,2016,2.97 Lakh,GTX Plus 1.5 Diesel AT Dual Tone,137.5K km,Diesel,Manual,TS07,"High quality, less driven"
+Ford,Hector Plus,2013,3.55 Lakh,Creative AMT,105K km,Petrol,Manual,AP09,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Nexon,2017,2.05 Lakh,Zeta 1.2 MT,112K km,Petrol,Manual,TS09,"High quality, less driven"
+Ford,Sonet,2017,4.97 Lakh,V,105K km,Diesel,Manual,TS09,"DSL Virtue Mall, Uppal"
+Maruti,Ignis,2020,3.20 Lakh,Style 1.5L TSI MT,40.5K km,Petrol,Manual,AP39,"DSL Virtue Mall, Uppal"
+Maruti,Celerio,2022,8.02 Lakh,ZXi AMT,41K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Virtus,2016,15.49 Lakh,ZXi,110.5K km,Petrol,Manual,AP31,"DSL Virtue Mall, Uppal"
+Ford,Nexon,2017,8.79 Lakh,Magna +,136K km,Diesel,Manual,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,Amaze,2013,8.69 Lakh,Sportz 1.4 CRDI,77K km,Petrol,Manual,AP11,"DSL Virtue Mall, Uppal"
+Ford,Seltos,2020,4.61 Lakh,LXi CNG,32.5K km,Petrol,Automatic,TS12,"DSL Virtue Mall, Uppal"
+MG,Swift,2022,3.71 Lakh,Lxi BS,44K km,Diesel,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Tata,Alto,2022,11.28 Lakh,VXi,44.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Kia,Grand i10,2023,8.43 Lakh,Magna 1.2 Kappa2,66K km,Diesel,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,Mobilio,2017,6.62 Lakh,Alpha Hybrid 1.5 AT,87.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Vento,2016,13.72 Lakh,VXi 1.2 BS,32K km,Petrol,Automatic,TS08,"Nexus Sujana Mall, Kukatpally"
+Volkswagen,XL6,2022,5.97 Lakh,Duratorq Diesel Titanium 1.4,44K km,Petrol,Manual,TS10,"High quality, less driven"
+Tata,City,2020,6.83 Lakh,Topline 1.0 TSI MT,43K km,Petrol,Automatic,TS10,"Nexus Sujana Mall, Kukatpally"
+Honda,Sonet,2021,1.72 Lakh,Magna 1.2 Kappa VTVT,42K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Kia,City,2022,3.45 Lakh,SX 1.2 Petrol,71.5K km,Petrol,Automatic,TS10,"High quality, less driven"
+Maruti,Kiger,2018,4.47 Lakh,Sharp Pro 2.0 Turbo Diesel 6 STR,113.5K km,Diesel,Automatic,TS12,"Phoenix Trivium, Hafeezpet"
+Honda,Elevate,2021,8.22 Lakh,ZXI ,116K km,Diesel,Manual,AP39,"Latest cars, 3 year warranty"
+Maruti,Seltos,2011,9.05 Lakh,XV Executive,24.5K km,Petrol,Manual,AP29,"DSL Virtue Mall, Uppal"
+Hyundai,Punch,2016,2.41 Lakh,Zxi Plus Dual Tone,86K km,Petrol,Manual,AP30,"High quality, less driven"
+Honda,Ignis,2015,5.48 Lakh,LX Hard Top Petrol MT 4WD,108.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Volkswagen,Glanza,2021,6.05 Lakh,Asta 1.2 ,119.5K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Maruti,Kushaq,2021,9.25 Lakh,VX MT,113K km,Petrol,Automatic,TS10,"DSL Virtue Mall, Uppal"
+Maruti,Celerio,2012,10.08 Lakh,LXi,85K km,Cng,Manual,AP29,"DSL Virtue Mall, Uppal"
+Honda,Swift,2016,7.44 Lakh,XZA Plus,142.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Honda,Eon,2015,14.56 Lakh,ZDi Plus AMT,50K km,Petrol,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Kia,i20,2023,15.45 Lakh,Titanium1.5 TDCi,23K km,Petrol,Manual,AP39,"DSL Virtue Mall, Uppal"
+Honda,Ritz,2022,7.92 Lakh,Creative AMT,68.5K km,Petrol,Manual,TS15,"DSL Virtue Mall, Uppal"
+Renault,Swift,2023,5.80 Lakh,VXi,18K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Honda,i10,2023,7.92 Lakh,Z8 L Petrol AT 7 STR,32K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Kia,Ciaz,2022,13.68 Lakh,VXi,58K km,Diesel,Automatic,TS36,"High quality, less driven"
+Tata,Swift Dzire,2023,4.04 Lakh,Topline 1.0 TSI MT,30K km,Petrol,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Maruti,Figo,2023,3.57 Lakh,ZXi Plus AGS,15K km,Petrol,Manual,TS09,"DSL Virtue Mall, Uppal"
+Toyota,Taigun,2024,3.05 Lakh,Topline 1.0 TSI AT,27K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Skoda,Grand i10,2023,3.59 Lakh,RXZ Turbo CVT,37K km,Petrol,Manual,TS13,"High quality, less driven"
+Maruti,Venue,2018,2.51 Lakh,ZDi Plus AMT,43.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Aura,2012,2.18 Lakh,SX ,58K km,Petrol,Manual,AP28,"DSL Virtue Mall, Uppal"
+Hyundai,Hector Plus,2019,3.64 Lakh,LXi CNG,30.5K km,Petrol,Manual,TS13,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Baleno,2013,2.64 Lakh,Titanium 1.0 Ecoboost ,95K km,Diesel,Manual,AP10,"Nexus Sujana Mall, Kukatpally"
+Maruti,Celerio,2012,5.90 Lakh,Duratorq Diesel EXI 1.4,113.5K km,Cng,Manual,AP29,"DSL Virtue Mall, Uppal"
+Maruti,Magnite,2013,3.05 Lakh,Lxi BS,77.5K km,Petrol,Manual,AP10,"DSL Virtue Mall, Uppal"
+Maruti,Brezza,2012,2.09 Lakh,RXT 1.0 SCE Edition,14K km,Petrol,Manual,AP28,"Phoenix Trivium, Hafeezpet"
+Hyundai,Thar,2013,10.47 Lakh,XZ Plus,47.5K km,Petrol,Manual,AP29,"DSL Virtue Mall, Uppal"
+Maruti,Grand i10,2018,4.63 Lakh,Sportz 1.4 CRDI,105K km,Petrol,Automatic,AP27,"DSL Virtue Mall, Uppal"
+Maruti,Elite i20,2012,8.05 Lakh,Creative Plus S 1.5 Kryojet Diesel 6MT,58.5K km,Petrol,Manual,AP09,"Phoenix Trivium, Hafeezpet"
+Ford,Brio,2011,7.42 Lakh,Highline 1.0 TSI MT,110.5K km,Diesel,Manual,AP37,"DSL Virtue Mall, Uppal"
+Volkswagen,Elite i20,2022,18.81 Lakh,Topline 1.0 TSI MT,56.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Swift,2018,5.56 Lakh,Creative 1.2 Revotron Petrol 6MT,14K km,Petrol,Manual,TS09,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Tiago,2021,3.64 Lakh,SX ,40.5K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Hyundai,Swift,2024,5.82 Lakh,LX Hard Top Petrol AT 4WD,12.5K km,Petrol,Manual,AP40,"Latest cars, 3 year warranty"
+MG,Alto 800,2023,10.58 Lakh,Z8 L Diesel AT 4WD 7 STR,26K km,Diesel,Manual,AP39,"DSL Virtue Mall, Uppal"
+Maruti,Figo,2018,12.84 Lakh,Style 1.0L TSI AT ,34.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Maruti,Punch,2017,3.14 Lakh,L,62.5K km,Petrol,Automatic,TS09,"Phoenix Trivium, Hafeezpet"
+Nissan,Alto 800,2023,5.59 Lakh,VXi,24K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Maruti,Scorpio N,2023,3.73 Lakh,ZDi Plus AMT,35.5K km,Petrol,Manual,AP39,"Nexus Sujana Mall, Kukatpally"
+Mahindra,Alto 800,2024,4.17 Lakh,Alpha 1.6,38K km,Petrol,Manual,TS15,"DSL Virtue Mall, Uppal"
+Hyundai,Virtus,2014,2.79 Lakh,Sportz 1.4 CRDI,90.5K km,Petrol,Manual,AP03,"DSL Virtue Mall, Uppal"
+Hyundai,Dzire,2020,5.35 Lakh,ZXi Plus AMT,122.5K km,Petrol,Manual,TS09,"DSL Virtue Mall, Uppal"
+Honda,Taigun,2017,6.45 Lakh,VXi,79K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Kiger,2016,2.27 Lakh,T ,100.5K km,Petrol,Manual,AP26,"DSL Virtue Mall, Uppal"
+Maruti,Dzire,2011,4.32 Lakh,VXi AMT,63.5K km,Petrol,Manual,AP28,"Phoenix Trivium, Hafeezpet"
+Tata,Venue,2021,7.08 Lakh,Sharp 2.0 Diesel,71.5K km,Petrol,Automatic,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,i10,2018,3.46 Lakh,VXi,77K km,Diesel,Automatic,TS09,"Nexus Sujana Mall, Kukatpally"
+Maruti,EcoSport,2017,19.23 Lakh,Ambition 1.0L TSI MT,42.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Ford,Figo,2017,3.58 Lakh,Style 1.0L TSI AT,70.5K km,Diesel,Manual,TS03,"Nexus Sujana Mall, Kukatpally"
+Tata,Ritz,2022,11.65 Lakh,SX ,52K km,Petrol,Automatic,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,Kwid,2022,4.36 Lakh,Alpha Plus MT Petrol,17.5K km,Petrol,Manual,AP39,"High quality, less driven"
+Mahindra,Kwid,2023,7.71 Lakh,SX ,55K km,Petrol,Automatic,TS08,"Phoenix Trivium, Hafeezpet"
+Maruti,Nexon,2022,12.59 Lakh,Titanium 1.0 Ecoboost ,18K km,Petrol,Manual,TS03,"High quality, less driven"
+Volkswagen,EcoSport,2023,6.64 Lakh,Highline 1.0 TSI MT,45.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Maruti,i20,2022,6.54 Lakh,CLIMBER 1.0 AMT Opt,10.5K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,Curvv,2022,9.93 Lakh,LXi CNG,27.5K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Volkswagen,Virtus,2022,2.77 Lakh,Delta 1.6,43K km,Petrol,Automatic,AP39,"Nexus Sujana Mall, Kukatpally"
+Renault,Virtus,2021,2.87 Lakh,Duratorq Diesel EXI 1.4,75.5K km,Petrol,Automatic,TS26,"Phoenix Trivium, Hafeezpet"
+Maruti,Curvv,2018,4.48 Lakh,VX,85.5K km,Diesel,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Hyundai,Venue,2022,2.38 Lakh,1.6 S Petrol,65K km,Diesel,Manual,TS10,"Phoenix Trivium, Hafeezpet"
+Maruti,Kwid,2013,2.19 Lakh,VDi,93K km,Cng,Manual,AP28,"DSL Virtue Mall, Uppal"
+Hyundai,Thar,2016,1.99 Lakh,VXi,100.5K km,Petrol,Manual,AP31,"Phoenix Trivium, Hafeezpet"
+Ford,Scorpio N,2015,2.75 Lakh,Creative S 1.5 Kryojet Diesel 6MT,78K km,Petrol,Manual,TS09,"Phoenix Trivium, Hafeezpet"
+Ford,Kushaq,2012,5.51 Lakh,1.5 W8 ,93K km,Diesel,Manual,AP28,"Nexus Sujana Mall, Kukatpally"
+Maruti,Superb,2012,5.91 Lakh,ZX CVT Petrol,87.5K km,Petrol,Manual,AP09,"DSL Virtue Mall, Uppal"
+Renault,Alto K10,2016,3.60 Lakh,GTX Plus 1.4 DCT,147K km,Petrol,Manual,TS07,"High quality, less driven"
+Renault,Dzire,2018,14.81 Lakh,RXZ EASY,109.5K km,Petrol,Manual,TS08,"High quality, less driven"
+Tata,i20,2018,10.73 Lakh,1.6 SX Plus Petrol,110.5K km,Petrol,Manual,TS03,"Nexus Sujana Mall, Kukatpally"
+Ford,Swift,2017,11.32 Lakh,VXI AMT,56K km,Petrol,Automatic,TS07,"High quality, less driven"
+Hyundai,Brio,2013,12.17 Lakh,Asta MT,76K km,Diesel,Manual,AP31,"Nexus Sujana Mall, Kukatpally"
+Tata,Alto 800,2025,9.73 Lakh,Sportz 1.2 Kappa VTVT CNG,18.5K km,Diesel,Manual,TG08,"Nexus Sujana Mall, Kukatpally"
+Volkswagen,Celerio,2022,2.98 Lakh,Titanium 1.5L Ti,12.5K km,Petrol,Manual,TS10,"High quality, less driven"
+Volkswagen,Hector,2023,11.62 Lakh,Highline Plus 1.0L TSI,70.5K km,Petrol,Manual,TS09,"Nexus Sujana Mall, Kukatpally"
+Tata,Venue,2024,22.58 Lakh,GTX Plus AT D,13.5K km,Petrol,Manual,TG09,"High quality, less driven"
+Hyundai,Amaze,2022,13.06 Lakh,VXi,63.5K km,Diesel,Manual,TS31,"Nexus Sujana Mall, Kukatpally"
+Renault,Alto 800,2017,20.78 Lakh,RXZ AMT Dual Tone,66.5K km,Petrol,Automatic,TS11,"High quality, less driven"
+Mahindra,Kushaq,2021,2.58 Lakh,VXi,66K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Mahindra,Kushaq,2023,6.38 Lakh,S MT,35.5K km,Diesel,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Skoda,Verna,2022,6.22 Lakh,VDI,34K km,Petrol,Automatic,TS22,"DSL Virtue Mall, Uppal"
+Skoda,XL6,2021,3.38 Lakh,Zeta Automatic,86K km,Petrol,Automatic,AP39,"DSL Virtue Mall, Uppal"
+Maruti,Verna,2018,6.29 Lakh,5 STR WITH A,123.5K km,Petrol,Manual,AP07,"DSL Virtue Mall, Uppal"
+Maruti,EcoSport,2017,2.11 Lakh,VX MT Petrol,103K km,Diesel,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Maruti,Virtus,2016,2.28 Lakh,RXT ,100K km,Diesel,Manual,AP40,"DSL Virtue Mall, Uppal"
+Hyundai,i10,2012,2.32 Lakh,Accomplished AMT Sunroof,97.5K km,Diesel,Manual,AP28,"Nexus Sujana Mall, Kukatpally"
+Maruti,Kwid,2021,2.98 Lakh,SX 1.5 Petrol,95.5K km,Petrol,Automatic,TS15,"Nexus Sujana Mall, Kukatpally"
+Honda,Figo,2013,11.16 Lakh,XT,73.5K km,Petrol,Manual,AP11,"High quality, less driven"
+Maruti,City,2017,3.67 Lakh,Topline 1.0 TSI AT,96K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Datsun,Creta,2018,3.23 Lakh,1.0 RXT AMT Opt,39.5K km,Petrol,Manual,TS09,"High quality, less driven"
+Maruti,Swift,2015,11.08 Lakh,Alpha 1.2 AT,111.5K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+MG,i10,2020,11.31 Lakh,V Petrol,93.5K km,Diesel,Manual,TS02,"High quality, less driven"
+Hyundai,Swift,2022,10.50 Lakh,Sportz 1.4 CRDI,31.5K km,Petrol,Manual,TS13,"DSL Virtue Mall, Uppal"
+Honda,Curvv,2015,10.99 Lakh,Highline Diesel,69K km,Petrol,Manual,AP16,"Latest cars, 3 year warranty"
+Maruti,XUV 300,2022,11.25 Lakh,Magna 1.2 Kappa2,44.5K km,Petrol,Manual,AP39,"DSL Virtue Mall, Uppal"
+Skoda,City,2023,4.89 Lakh,A,25K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Skoda,Seltos,2021,11.31 Lakh,Sportz 1.2,56.5K km,Petrol,Automatic,AP39,"DSL Virtue Mall, Uppal"
+Hyundai,Triber,2020,2.47 Lakh,ZX CVT Petrol,53K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Creta,2023,3.45 Lakh,RXT ,32.5K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Grand i10 Nios,2021,2.66 Lakh,Topline 1.0 TSI AT,36K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Ford,EcoSport,2015,4.68 Lakh,HTK Plus 1.5,65K km,Petrol,Manual,TS12,"Phoenix Trivium, Hafeezpet"
+Volkswagen,Polo,2023,2.18 Lakh,G NeoDrive,16.5K km,Petrol,Manual,TS28,"DSL Virtue Mall, Uppal"
+Hyundai,Hector,2012,5.25 Lakh,VXi,54.5K km,Petrol,Manual,AP16,"DSL Virtue Mall, Uppal"
+Renault,Seltos,2020,5.96 Lakh,Alpha Automatic,117K km,Petrol,Automatic,TS08,"Phoenix Trivium, Hafeezpet"
+Maruti,Celerio,2012,3.38 Lakh,ZXi AMT,72K km,Cng,Manual,AP28,"Phoenix Trivium, Hafeezpet"
+Maruti,Kiger,2016,2.07 Lakh,Style 1.0L TSI AT,131K km,Diesel,Manual,TS10,"Phoenix Trivium, Hafeezpet"
+Ford,Swift,2012,2.97 Lakh,Super 1.5 Petrol,72K km,Diesel,Manual,AP28,"High quality, less driven"
+Honda,Brio,2016,13.81 Lakh,V AMT,127.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Swift Dzire,2016,8.81 Lakh,T4 Plus,99K km,Petrol,Manual,TS07,"High quality, less driven"
+Maruti,Baleno,2013,9.02 Lakh,VDi AMT,84K km,Diesel,Manual,AP28,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Eeco,2012,14.96 Lakh,1.5 V CVT Diesel,39.5K km,Petrol,Manual,AP28,"DSL Virtue Mall, Uppal"
+Maruti,Kwid,2012,7.71 Lakh,SV Petrol,77.5K km,Petrol,Manual,AP31,"High quality, less driven"
+Tata,Punch,2025,8.88 Lakh,VXi,27.5K km,Diesel,Manual,TG08,"Phoenix Trivium, Hafeezpet"
+Mahindra,Grand i10 Nios,2019,4.15 Lakh,XZA Plus AMT Petrol,65K km,Diesel,Automatic,TS07,"High quality, less driven"
+Honda,Creta,2018,4.87 Lakh,1.0 RXT Opt,60.5K km,Petrol,Automatic,TS09,"Nexus Sujana Mall, Kukatpally"
+Kia,Tiago,2022,6.13 Lakh,LXi,30K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Renault,Taigun,2024,5.72 Lakh,Duratorq Diesel EXI 1.4,19.5K km,Petrol,Automatic,TG07,"DSL Virtue Mall, Uppal"
+Hyundai,Kwid,2017,5.80 Lakh,Titanium+ 1.5L TDCi,9.5K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Baleno,2019,11.23 Lakh,Zeta 1.2 MT,53.5K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,Seltos,2022,12.21 Lakh,SX ,25.5K km,Petrol,Manual,AP39,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Jazz,2022,2.75 Lakh,Savvy Pro 1.5 Turbo CVT,22.5K km,Cng,Manual,TS08,"Phoenix Trivium, Hafeezpet"
+Ford,Elite i20,2016,6.30 Lakh,ZXi Plus,43.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Volkswagen,Vento,2020,3.20 Lakh,RXT 1.0 Turbo MT Dual Tone,126K km,Petrol,Manual,TS15,"DSL Virtue Mall, Uppal"
+MG,Creta,2020,2.39 Lakh,Style 1.5L TSI DSG,74.5K km,Diesel,Manual,TS09,"Nexus Sujana Mall, Kukatpally"
+Kia,i10,2021,3.89 Lakh,AX7 Petrol MT 7 STR,122K km,Diesel,Automatic,TS07,"High quality, less driven"
+Maruti,Elite i20,2015,5.47 Lakh,ZX Petrol,144.5K km,Petrol,Manual,TS06,"DSL Virtue Mall, Uppal"
+Renault,City,2022,4.62 Lakh,XZ Plus Diesel,50.5K km,Petrol,Automatic,TS09,"Phoenix Trivium, Hafeezpet"
+Maruti,Kwid,2013,7.81 Lakh,1.6 SX Plus,51K km,Petrol,Manual,AP31,"Phoenix Trivium, Hafeezpet"
+Honda,Taigun,2012,2.97 Lakh,ZDi AMT,72.5K km,Petrol,Manual,AP28,"Nexus Sujana Mall, Kukatpally"
+Maruti,Seltos,2015,8.13 Lakh,ZXi Plus,145K km,Diesel,Manual,AP03,"High quality, less driven"
+Maruti,Urban Cruiser Hyryder,2021,5.73 Lakh,ZDi AMT,118K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Maruti,Alto 800,2019,13.29 Lakh,VXi,14K km,Petrol,Manual,TS03,"DSL Virtue Mall, Uppal"
+Honda,Baleno,2022,4.48 Lakh,1.2 VX AT i,12.5K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Renault,Celerio,2019,12.25 Lakh,Titanium1.5 TDCi,72.5K km,Petrol,Manual,TS27,"DSL Virtue Mall, Uppal"
+Tata,Slavia,2024,3.63 Lakh,LXi 1.2 BS,26K km,Petrol,Automatic,TG08,"DSL Virtue Mall, Uppal"
+Hyundai,Hector,2022,6.16 Lakh,Monte Carlo 1.5 TDI MT,29.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,Glanza,2023,9.61 Lakh,Zeta 1.2 MT,46K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Tata,Brezza,2021,4.01 Lakh,Z8 L Diesel AT 2WD 7 STR,66.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Volkswagen,TUV300,2023,5.12 Lakh,Zeta 1.3,37K km,Petrol,Automatic,AP39,"DSL Virtue Mall, Uppal"
+Renault,Dzire,2019,3.98 Lakh,XT Petrol,33K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Maruti,Amaze,2018,7.17 Lakh,Magna Plus 1.2,60.5K km,Petrol,Automatic,TS07,"High quality, less driven"
+Kia,Jazz,2020,2.16 Lakh,SX 1.5 VTVT IVT,40.5K km,Petrol,Manual,AP39,"Nexus Sujana Mall, Kukatpally"
+Honda,Alto K10,2016,2.49 Lakh,Style 1.0L TSI AT,139K km,Petrol,Manual,TS10,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Nexon,2017,4.39 Lakh,HTK 1.5,108.5K km,Diesel,Manual,TS03,"Nexus Sujana Mall, Kukatpally"
+Volkswagen,Kwid,2013,3.78 Lakh,HTK Plus 1.5,117K km,Diesel,Manual,AP11,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Alto 800,2016,9.75 Lakh,Asta ,97.5K km,Diesel,Manual,AP37,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Figo,2011,2.79 Lakh,Ambition 1.0L TSI AT,70K km,Petrol,Manual,AP09,"High quality, less driven"
+Datsun,EcoSport,2019,12.48 Lakh,XL Diesel,49.5K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Ignis,2017,9.81 Lakh,Asta 1.2 Kappa VTVT ,120K km,Petrol,Manual,TS08,"Latest cars, 3 year warranty"
+Maruti,Verna,2023,11.11 Lakh,V CVT,33K km,Petrol,Manual,TS02,"Nexus Sujana Mall, Kukatpally"
+Honda,Creta,2022,3.32 Lakh,VXi,88.5K km,Petrol,Automatic,AP39,"DSL Virtue Mall, Uppal"
+Renault,Hector,2018,6.40 Lakh,Alpha AT Petrol,53.5K km,Petrol,Manual,AP07,"DSL Virtue Mall, Uppal"
+Volkswagen,Brezza,2023,4.06 Lakh,Asta 1.2,41.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Kia,Kiger,2022,11.55 Lakh,Era 1.1 iRDE2,80K km,Petrol,Manual,AP39,"DSL Virtue Mall, Uppal"
+Toyota,Slavia,2022,10.32 Lakh,Zxi AT Dual Tone,46K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Maruti,XUV700,2022,9.90 Lakh,ZDi AGS,29.5K km,Petrol,Manual,TS08,"Phoenix Trivium, Hafeezpet"
+Maruti,City,2021,9.84 Lakh,Style 1.5L TSI AT,89.5K km,Petrol,Automatic,TS11,"Phoenix Trivium, Hafeezpet"
+Maruti,Altroz,2016,5.96 Lakh,XZA Plus ,22K km,Petrol,Automatic,TS10,"High quality, less driven"
+Skoda,Ciaz,2022,5.57 Lakh,HTX 1.5 Diesel iMT,61.5K km,Petrol,Automatic,TS05,"Nexus Sujana Mall, Kukatpally"
+MG,Creta,2020,5.92 Lakh,5 STR AC,45.5K km,Petrol,Manual,TS15,"DSL Virtue Mall, Uppal"
+Toyota,Dzire,2025,3.86 Lakh,Luxury Plus 1.5 Diesel AT 7 STR,3.5K km,Petrol,Automatic,TG08,"High quality, less driven"
+Maruti,Celerio,2022,1.94 Lakh,Highline 1.0 TSI MT,28.5K km,Petrol,Automatic,AP39,"Phoenix Trivium, Hafeezpet"
+Mahindra,Swift,2018,6.30 Lakh,ZXi Plus,95K km,Diesel,Manual,TS08,"DSL Virtue Mall, Uppal"
+Maruti,Swift,2019,2.76 Lakh,S7,74.5K km,Diesel,Automatic,TS09,"Nexus Sujana Mall, Kukatpally"
+Honda,Amaze,2018,2.37 Lakh,2.0L Style TDI AT,108K km,Diesel,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Honda,Figo,2016,2.22 Lakh,1.0 RXT AMT Opt,113.5K km,Petrol,Manual,TS11,"High quality, less driven"
+Maruti,Swift Dzire,2011,4.65 Lakh,ZDi,26.5K km,Petrol,Manual,AP29,"Nexus Sujana Mall, Kukatpally"
+Tata,Rapid,2018,5.73 Lakh,Titanium1.5 TDCi,116.5K km,Petrol,Automatic,TS15,"Nexus Sujana Mall, Kukatpally"
+Renault,Ignis,2020,13.91 Lakh,Vxi BS,116.5K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Maruti,Scorpio N,2019,8.83 Lakh,Zeta 1.2 AT,63K km,Petrol,Manual,AP35,"Phoenix Trivium, Hafeezpet"
+Ford,Zest,2013,17.84 Lakh,Z8 L Diesel AT 2WD 7 STR,135K km,Diesel,Manual,AP09,"DSL Virtue Mall, Uppal"
+Ford,Elite i20,2017,10.56 Lakh,Signature ,149K km,Diesel,Manual,AP37,"DSL Virtue Mall, Uppal"
+Maruti,Verna,2023,5.84 Lakh,VXi,20.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,Kushaq,2023,13.96 Lakh,VXI AMT,70K km,Petrol,Automatic,AP39,"DSL Virtue Mall, Uppal"
+Hyundai,Sonet,2018,19.53 Lakh,XV Premium Turbo ,50.5K km,Petrol,Manual,TS10,"Nexus Sujana Mall, Kukatpally"
+MG,Sonet,2023,10.46 Lakh,VXi AMT,47.5K km,Petrol,Automatic,AP40,"High quality, less driven"
+Maruti,New i20,2023,7.92 Lakh,SX ,36.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Renault,Kushaq,2021,5.49 Lakh,ZX CVT Petrol,47K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Skoda,Sunny,2022,7.43 Lakh,Asta 1.2 Dual Tone,37.5K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Mahindra,Grand i10,2024,6.09 Lakh,ZX 1.5 Petrol MT,17.5K km,Petrol,Manual,TG07,"DSL Virtue Mall, Uppal"
+Honda,Glanza,2022,5.23 Lakh,VXI,24K km,Petrol,Manual,AP39,"DSL Virtue Mall, Uppal"
+Tata,Alto K10,2022,5.87 Lakh,VXi,51K km,Diesel,Manual,TS36,"DSL Virtue Mall, Uppal"
+Maruti,Baleno,2018,3.08 Lakh,Magna Plus 1.2,96K km,Petrol,Automatic,TS10,"Nexus Sujana Mall, Kukatpally"
+Hyundai,i10,2016,3.92 Lakh,ZDi Plus,98.5K km,Diesel,Manual,AP31,"High quality, less driven"
+Maruti,Elite i20,2017,4.75 Lakh,Sportz 1.2 Kappa VTVT,69.5K km,Diesel,Automatic,AP37,"Nexus Sujana Mall, Kukatpally"
+Maruti,Alto 800,2024,2.35 Lakh,VXI AMT,27K km,Petrol,Manual,TG07,"DSL Virtue Mall, Uppal"
+Maruti,i10,2018,7.12 Lakh,RXT Opt,90K km,Diesel,Automatic,TS11,"Phoenix Trivium, Hafeezpet"
+Maruti,Brezza,2013,5.01 Lakh,Highline 1.0 TSI AT,115K km,Petrol,Manual,AP11,"DSL Virtue Mall, Uppal"
+Honda,Vitara Brezza,2013,20.71 Lakh,ZXi Plus AT Dual Tone,93.5K km,Petrol,Automatic,AP28,"Nexus Sujana Mall, Kukatpally"
+Ford,Slavia,2019,7.42 Lakh,S MT Petrol,121.5K km,Diesel,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Maruti,Nexon,2011,3.27 Lakh,Topline 1.0 TSI AT,89K km,Petrol,Manual,AP09,"DSL Virtue Mall, Uppal"
+Skoda,Sonet,2019,4.70 Lakh,VX i,118.5K km,Diesel,Manual,TS09,"DSL Virtue Mall, Uppal"
+Maruti,Eeco,2022,10.12 Lakh,VXI,36K km,Petrol,Manual,TS09,"Nexus Sujana Mall, Kukatpally"
+Mahindra,Carens,2023,12.05 Lakh,Sportz Executive CNG,49.5K km,Diesel,Automatic,TS09,"Nexus Sujana Mall, Kukatpally"
+Maruti,Taigun,2018,7.76 Lakh,LX Hard Top Diesel AT 4WD,70.5K km,Diesel,Manual,AP05,"DSL Virtue Mall, Uppal"
+Tata,Brezza,2015,8.70 Lakh,SX ,83K km,Petrol,Manual,TS10,"High quality, less driven"
+Hyundai,Scorpio,2019,8.87 Lakh,Style 1.0L TSI MT,83K km,Petrol,Manual,AP39,"DSL Virtue Mall, Uppal"
+Hyundai,Octavia,2022,9.79 Lakh,Trend+ 1.5L TDCi,34K km,Petrol,Automatic,TS15,"DSL Virtue Mall, Uppal"
+Skoda,Kwid,2022,2.89 Lakh,Asta 1.2,36.5K km,Petrol,Automatic,TS07,"High quality, less driven"
+Kia,Swift,2023,3.53 Lakh,Automatic,56K km,Diesel,Manual,AP39,"Phoenix Trivium, Hafeezpet"
+Kia,Figo Aspire,2022,6.32 Lakh,VXi,59.5K km,Diesel,Manual,TS19,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Elite i20,2022,1.92 Lakh,LXi,34K km,Diesel,Manual,TS09,"Nexus Sujana Mall, Kukatpally"
+Skoda,Ritz,2021,5.26 Lakh,ZXI,111.5K km,Petrol,Automatic,TS09,"Phoenix Trivium, Hafeezpet"
+Nissan,Creta,2013,2.83 Lakh,Zxi Dual Tone,125.5K km,Diesel,Manual,AP24,"High quality, less driven"
+Hyundai,i10,2015,4.76 Lakh,Ambition 1.0L TSI AT,114K km,Petrol,Manual,TS10,"Nexus Sujana Mall, Kukatpally"
+Toyota,Baleno,2021,2.07 Lakh,RXZ MT,91.5K km,Petrol,Automatic,TS08,"Nexus Sujana Mall, Kukatpally"
+Maruti,Elite i20,2011,2.68 Lakh,RXZ Turbo Petrol,26.5K km,Petrol,Manual,AP11,"DSL Virtue Mall, Uppal"
+Maruti,Scorpio N,2018,9.90 Lakh,SX ,117K km,Petrol,Automatic,TS09,"Phoenix Trivium, Hafeezpet"
+Hyundai,Alcazar,2015,7.23 Lakh,ZXI Plus AT Dual Tone,47.5K km,Petrol,Manual,AP31,"DSL Virtue Mall, Uppal"
+Hyundai,Swift,2017,12.58 Lakh,1.6 SX Plus Auto Petrol,88.5K km,Petrol,Manual,AP07,"Nexus Sujana Mall, Kukatpally"
+Maruti,Magnite,2015,9.18 Lakh,ZDi AGS,95K km,Petrol,Manual,TS03,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Swift,2014,10.23 Lakh,Duratorq Diesel Titanium 1.4,45K km,Petrol,Manual,TS12,"Phoenix Trivium, Hafeezpet"
+Maruti,Creta,2022,4.89 Lakh,1.0L RXT ,37.5K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Maruti,City,2018,14.54 Lakh,1.6 SX ,75.5K km,Diesel,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Skoda,Elite i20,2022,12.12 Lakh,Magna 1.4 CRDI,78.5K km,Petrol,Automatic,TS08,"High quality, less driven"
+Tata,Creta,2022,9.15 Lakh,XV Safety Pack,14.5K km,Petrol,Automatic,AP39,"Nexus Sujana Mall, Kukatpally"
+Kia,Elevate,2023,13.84 Lakh,Zeta,28.5K km,Diesel,Manual,AP39,"Nexus Sujana Mall, Kukatpally"
+Maruti,Swift,2023,12.08 Lakh,Twist XTA,19K km,Petrol,Manual,AP39,"Nexus Sujana Mall, Kukatpally"
+Kia,Alto K10,2022,3.02 Lakh,S MT,50.5K km,Diesel,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Volkswagen,Alto 800,2024,3.75 Lakh,2.0L Diesel Prestige,9K km,Petrol,Manual,TG09,"Nexus Sujana Mall, Kukatpally"
+Maruti,Elite i20,2022,3.87 Lakh,ZX Diesel,61K km,Petrol,Manual,TS09,"Nexus Sujana Mall, Kukatpally"
+Mahindra,Dzire,2022,4.67 Lakh,S Diesel,53K km,Diesel,Manual,AP40,"Phoenix Trivium, Hafeezpet"
+Skoda,Grand i10,2018,2.43 Lakh,W6,122K km,Diesel,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Renault,Kwid,2018,9.70 Lakh,AX 7 Diesel MT Luxury Pack 7 STR,61.5K km,Petrol,Automatic,AP31,"Nexus Sujana Mall, Kukatpally"
+Maruti,Swift,2012,2.11 Lakh,SX 1.2 Petrol,94K km,Diesel,Manual,AP09,"DSL Virtue Mall, Uppal"
+Ford,Taigun,2015,5.01 Lakh,Zeta AGS,106.5K km,Diesel,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Creta,2018,4.60 Lakh,ZXi,95K km,Petrol,Manual,AP26,"High quality, less driven"
+Maruti,Vitara Brezza,2014,19.46 Lakh,Sportz AMT 1.2 Kappa VTVT,110K km,Petrol,Manual,TS15,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Taigun,2019,18.35 Lakh,VXi AGS,91.5K km,Diesel,Automatic,AP39,"DSL Virtue Mall, Uppal"
+Hyundai,Swift,2011,3.88 Lakh,XM Plus Diesel,97K km,Petrol,Manual,AP28,"Nexus Sujana Mall, Kukatpally"
+Maruti,Thar,2018,3.48 Lakh,XE 4x2 7 STR,121K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,Creta,2017,6.23 Lakh,Fluidic 1.6 CRDi SX AT,64.5K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Mahindra,Kushaq,2023,7.08 Lakh,SX ,43.5K km,Diesel,Automatic,TS08,"Nexus Sujana Mall, Kukatpally"
+Hyundai,EcoSport,2023,15.78 Lakh,LXi,29.5K km,Petrol,Automatic,AP40,"Phoenix Trivium, Hafeezpet"
+Maruti,Creta,2016,9.70 Lakh,Thunder Edition Diesel,81.5K km,Petrol,Manual,AP31,"DSL Virtue Mall, Uppal"
+Maruti,XUV700,2017,5.31 Lakh,ZXi,84.5K km,Petrol,Automatic,AP03,"Phoenix Trivium, Hafeezpet"
+Nissan,Elite i20,2021,10.76 Lakh,Sharp Pro 1.5 Turbo MT,69K km,Petrol,Manual,TS28,"Nexus Sujana Mall, Kukatpally"
+Maruti,Nexon,2024,13.68 Lakh,Asta 1.2 ,8.5K km,Petrol,Automatic,TG11,"DSL Virtue Mall, Uppal"
+Hyundai,Swift Dzire,2025,3.28 Lakh,VXI,80.5K km,Diesel,Automatic,TG07,"DSL Virtue Mall, Uppal"
+Honda,Alto 800,2021,1.88 Lakh,SX ,80.5K km,Petrol,Automatic,TS07,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Alto 800,2018,1.93 Lakh,XZ Petrol,73.5K km,Petrol,Manual,TS15,"DSL Virtue Mall, Uppal"
+Hyundai,Swift,2020,4.64 Lakh,Sportz Plus 1.2,75.5K km,Diesel,Automatic,TS10,"DSL Virtue Mall, Uppal"
+Honda,Nexon,2023,6.62 Lakh,Sportz 1.2 MT,9.5K km,Petrol,Manual,AP40,"DSL Virtue Mall, Uppal"
+Maruti,Brezza,2012,3.95 Lakh,Asta 1.1 CRDi,62.5K km,Petrol,Manual,AP28,"DSL Virtue Mall, Uppal"
+Maruti,Kushaq,2011,3.23 Lakh,Sportz 1.2 Kappa VTVT,14.5K km,Petrol,Manual,AP11,"DSL Virtue Mall, Uppal"
+Maruti,Thar,2016,3.04 Lakh,V AT Petrol,90K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,Kiger,2020,3.86 Lakh,Titanium Plus 1.5 TDCi,97K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,XUV700,2017,10.05 Lakh,VXi AMT,89.5K km,Diesel,Manual,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,Duster,2019,8.70 Lakh,VXi AMT,119K km,Petrol,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Maruti,Venue,2017,9.49 Lakh,XZA Plus Petrol,119K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Renault,Brezza,2019,4.88 Lakh,SX 1.2 ,59K km,Petrol,Manual,TS09,"Phoenix Trivium, Hafeezpet"
+Maruti,Creta,2016,13.18 Lakh,Sportz 1.2 Kappa2,94.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+Volkswagen,Vitara Brezza,2023,6.76 Lakh,ZXI Plus 1.2,47.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Figo,2018,3.90 Lakh,S Diesel,74K km,Petrol,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Maruti,Kwid,2022,5.06 Lakh,VDi,51.5K km,Petrol,Automatic,TS13,"DSL Virtue Mall, Uppal"
+Honda,Creta,2017,14.33 Lakh,Zeta,57.5K km,Petrol,Manual,AP31,"DSL Virtue Mall, Uppal"
+Volkswagen,i20,2023,15.07 Lakh,Revotron XZ,27K km,Petrol,Automatic,TS09,"Nexus Sujana Mall, Kukatpally"
+Honda,Micra Active,2019,10.04 Lakh,Asta 1.2 ,46.5K km,Cng,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Baleno,2016,4.75 Lakh,XZ Plus Diesel,82.5K km,Petrol,Manual,AP05,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Nano,2021,16.35 Lakh,SX 1.2 MT,46.5K km,Diesel,Manual,AP39,"DSL Virtue Mall, Uppal"
+Mahindra,Brio,2023,4.52 Lakh,SX 1.4 ,44K km,Diesel,Automatic,TS08,"DSL Virtue Mall, Uppal"
+Hyundai,XF,2021,6.72 Lakh,VXi AMT,48K km,Petrol,Automatic,TS09,"DSL Virtue Mall, Uppal"
+Skoda,Civic,2021,3.62 Lakh,VXi AMT,78.5K km,Diesel,Manual,TS07,"DSL Virtue Mall, Uppal"
+Ford,EcoSport,2017,2.68 Lakh,Titanium Plus 1.2 Ti,131K km,Diesel,Manual,TS06,"DSL Virtue Mall, Uppal"
+Hyundai,XUV500,2016,2.28 Lakh,Highline Plus 1.0L TSI,100.5K km,Diesel,Automatic,TG07,"DSL Virtue Mall, Uppal"
+Mahindra,XUV700,2022,4.80 Lakh,ZXi AMT,51K km,Petrol,Automatic,TS12,"DSL Virtue Mall, Uppal"
+Hyundai,Venue,2016,8.74 Lakh,Sportz 1.2 Kappa VTVT,128.5K km,Petrol,Manual,AP30,"DSL Virtue Mall, Uppal"
+Tata,Baleno,2021,9.69 Lakh,GT,43K km,Petrol,Manual,AP39,"Nexus Sujana Mall, Kukatpally"
+Maruti,Celerio,2013,11.71 Lakh,LX Hard Top Petrol MT 4WD,43K km,Petrol,Automatic,AP28,"Phoenix Trivium, Hafeezpet"
+Maruti,Grand i10 Nios,2019,11.35 Lakh,Titanium+ 1.5L TDCi,92K km,Petrol,Automatic,TS34,"DSL Virtue Mall, Uppal"
+Maruti,Dzire,2018,6.81 Lakh,S MT,83K km,Petrol,Manual,AP31,"Nexus Sujana Mall, Kukatpally"
+Maruti,Altroz,2019,16.73 Lakh,Highline Plus 1.5L AT ,113.5K km,Diesel,Manual,TS07,"Phoenix Trivium, Hafeezpet"
+Tata,Hexa,2021,7.90 Lakh,SX ,50.5K km,Petrol,Manual,TS09,"Phoenix Trivium, Hafeezpet"
+Maruti,Verna,2023,10.88 Lakh,ZXi,36.5K km,Petrol,Automatic,TS11,"DSL Virtue Mall, Uppal"
+Skoda,Exter,2022,12.26 Lakh,RXZ MT Dual Tone,36.5K km,Petrol,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Mahindra,Swift,2022,7.43 Lakh,Sharp 1.5 DCT Petrol,29K km,Petrol,Automatic,TS03,"DSL Virtue Mall, Uppal"
+Renault,EcoSport,2023,6.54 Lakh,VXi,20.5K km,Petrol,Automatic,TS13,"DSL Virtue Mall, Uppal"
+Mahindra,Dzire,2023,2.22 Lakh,VXI,17.5K km,Petrol,Manual,AP40,"DSL Virtue Mall, Uppal"
+Renault,Hector,2020,2.94 Lakh,VXi Plus,46K km,Petrol,Automatic,AP39,"Phoenix Trivium, Hafeezpet"
+Hyundai,Elite i20,2023,8.02 Lakh,VDI,27.5K km,Petrol,Manual,AP39,"Nexus Sujana Mall, Kukatpally"
+Maruti,Swift Dzire,2023,3.31 Lakh,ZXi,19.5K km,Petrol,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Xcent,2017,2.83 Lakh,S 1.5 Diesel,109K km,Diesel,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Altroz,2018,5.15 Lakh,Base 1.2,125K km,Diesel,Automatic,AP03,"DSL Virtue Mall, Uppal"
+Ford,Elite i20,2012,1.68 Lakh,Sportz ,103.5K km,Petrol,Automatic,AP29,"Nexus Sujana Mall, Kukatpally"
+Renault,New i20,2020,2.57 Lakh,ZXI+,101K km,Diesel,Manual,TS08,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Grand i10,2018,19.25 Lakh,Comfortline 1.2L ,106K km,Diesel,Automatic,TS08,"Phoenix Trivium, Hafeezpet"
+Hyundai,Grand i10 Nios,2013,15.59 Lakh,Magna 1.1 CRDi,94K km,Petrol,Manual,AP05,"DSL Virtue Mall, Uppal"
+Nissan,Jazz,2017,8.26 Lakh,1.0 RXT,65K km,Petrol,Manual,AP21,"Phoenix Trivium, Hafeezpet"
+Maruti,Freestyle,2020,7.64 Lakh,XZ Petrol,74K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Tata,Swift,2016,16.42 Lakh,RXT,12K km,Petrol,Manual,TS10,"Phoenix Trivium, Hafeezpet"
+Honda,Swift,2014,8.15 Lakh,Vxi,71K km,Diesel,Automatic,AP16,"Nexus Sujana Mall, Kukatpally"
+Jaguar,Nexon,2017,6.85 Lakh,Zeta 1.2 MT,72K km,Diesel,Manual,TS08,"DSL Virtue Mall, Uppal"
+Honda,Xcent,2020,3.08 Lakh,Sportz 1.2 Kappa VTVT,51.5K km,Diesel,Automatic,TS10,"Phoenix Trivium, Hafeezpet"
+Ford,i10,2020,5.56 Lakh,Vxi,54.5K km,Diesel,Manual,TS10,"Nexus Sujana Mall, Kukatpally"
+Mahindra,Wagon R,2017,6.41 Lakh,SX 1.5 Petrol,87.5K km,Diesel,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Mahindra,EcoSport,2022,6.57 Lakh,LX Hard Top Diesel MT 4WD,91K km,Petrol,Manual,TS11,"DSL Virtue Mall, Uppal"
+Hyundai,Kwid,2022,5.75 Lakh,HTX 1.5 Diesel MT,66.5K km,Petrol,Manual,TS29,"Phoenix Trivium, Hafeezpet"
+Maruti,Swift,2023,4.74 Lakh,2.5 G 8 STR BS,25K km,Petrol,Manual,TS07,"Nexus Sujana Mall, Kukatpally"
+Maruti,Baleno,2015,6.69 Lakh,Magna 1.2 Kappa VTVT,69K km,Petrol,Automatic,TS10,"DSL Virtue Mall, Uppal"
+Hyundai,Tiago,2021,4.01 Lakh,SX ,47.5K km,Petrol,Manual,TS04,"Phoenix Trivium, Hafeezpet"
+Maruti,Elite i20,2022,6.77 Lakh,1.2 V CVT Petrol,24.5K km,Diesel,Automatic,TS08,"Phoenix Trivium, Hafeezpet"
+Tata,Nexon,2022,5.18 Lakh,Sportz 1.2 Kappa VTVT,54.5K km,Diesel,Automatic,TS07,"DSL Virtue Mall, Uppal"
+Tata,Exter,2018,15.81 Lakh,GTX Plus DCT 1.4,96.5K km,Diesel,Manual,TS07,"DSL Virtue Mall, Uppal"
+Hyundai,Venue,2014,6.21 Lakh,VXI,80.5K km,Petrol,Manual,TS16,"Phoenix Trivium, Hafeezpet"
+Hyundai,Swift,2023,3.64 Lakh,Lxi,49.5K km,Petrol,Automatic,TS07,"Phoenix Trivium, Hafeezpet"
+Maruti,Swift,2018,4.77 Lakh,LXi,33.5K km,Diesel,Manual,TS30,"Nexus Sujana Mall, Kukatpally"
+Ford,Freestyle,2020,5.72 Lakh,1.2 S CVT Petrol,109K km,Petrol,Manual,TS07,"DSL Virtue Mall, Uppal"
+Maruti,Polo,2018,6.09 Lakh,1.2 SX,94.5K km,Petrol,Manual,TS08,"DSL Virtue Mall, Uppal"
+MG,Celerio,2023,5.26 Lakh,Sportz 1.2,17.5K km,Petrol,Manual,TS10,"Nexus Sujana Mall, Kukatpally"
+Hyundai,Grand i10,2018,3.75 Lakh,VXi,35K km,Petrol,Manual,TS13,"Nexus Sujana Mall, Kukatpally"
+Maruti,Polo,2015,5.81 Lakh,CLIMBER 1.0,104.5K km,Petrol,Manual,TS07,
+Hyundai,Thar,2018,5.73 Lakh,1.0 RXT AMT,43.5K km,Petrol,Manual,TS07,
+Tata,EcoSport,2020,5.27 Lakh,Topline 1.0 TSI MT,38.5K km,Petrol,Manual,TS07,
+Hyundai,Brio,2020,4.57 Lakh,Zeta,39.5K km,Petrol,Manual,TS08,
+Hyundai,Ameo,2021,6.32 Lakh,VXi,64.5K km,Diesel,Manual,TS10,
+Hyundai,Creta,2016,6.49 Lakh,SX ,103.5K km,Petrol,Manual,TS07,
+Hyundai,Ertiga,2023,3.99 Lakh,1.6 SX ,37K km,Petrol,Manual,TS07,
+Honda,Nexon,2017,3.14 Lakh,Duratorq Diesel ZXI 1.4,53.5K km,Diesel,Manual,TS09,
+Ford,Kiger,2020,5.78 Lakh,Zeta 1.2,99K km,Petrol,Automatic,TS23,
+Maruti,Hector,2018,7.94 Lakh,1.0 RXT AMT,64.5K km,Petrol,Manual,TS08,
+Maruti,Swift,2023,2.36 Lakh,XV Safety Pack,4.5K km,Petrol,Automatic,TS07,
+Tata,Wagon R,2019,4.11 Lakh,Zeta 1.2,83.5K km,Petrol,Automatic,TS09,
+Hyundai,Kwid,2015,5.68 Lakh,Asta AMT 1.2 Kappa VTVT,81.5K km,Petrol,Automatic,TS09,
+Hyundai,Alto K10,2013,3.89 Lakh,1.2 S i,20.5K km,Petrol,Manual,AP10,
+Maruti,Ignis,2024,6.16 Lakh,Highline1.5L ,26.5K km,Diesel,Manual,TS07,
+Ford,Swift Dzire,2020,6.29 Lakh,GTX 1.4 Dual Tone,81K km,Petrol,Manual,AP39,
+Renault,Swift,2016,6.51 Lakh,V CVT Petrol,59K km,Diesel,Manual,TS08,
+Maruti,Creta,2014,8.47 Lakh,Alpha 1.3,38.5K km,Petrol,Manual,TS08,
+Maruti,Xcent,2019,5.07 Lakh,Signature ,28K km,Petrol,Manual,TS07,
+Tata,Grand i10,2017,5.07 Lakh,Sportz Plus 1.2,66.5K km,Petrol,Manual,TS07,
+Hyundai,Ciaz,2020,5.07 Lakh,Zeta,86K km,Diesel,Manual,TS07,
+Tata,Freestyle,2019,6.21 Lakh,SX 1.2,119.5K km,Petrol,Automatic,TS07,
+Hyundai,Polo,2023,3.50 Lakh,HTX 1.0 iMT,41.5K km,Diesel,Manual,TS15,
+Hyundai,Grand i10,2019,3.78 Lakh,SX ,78K km,Petrol,Manual,TS09,
+Maruti,Kwid,2020,7.53 Lakh,XZ,121K km,Petrol,Manual,TS07,
+Maruti,Altroz,2021,11.88 Lakh,HTX 1.5 IVT,60K km,Petrol,Automatic,TS08,
+Ford,Kwid,2019,5.10 Lakh,VXi,57K km,Petrol,Automatic,TS08,
+Volkswagen,Alto 800,2020,3.14 Lakh,Titanium 1.5 Ti,62K km,Petrol,Manual,TS10,
+Maruti,Ignis,2016,5.70 Lakh,XZA Petrol,41.5K km,Petrol,Manual,TS09,
+Hyundai,Grand i10 Nios,2014,14.34 Lakh,Signature ,34.5K km,Petrol,Automatic,AP29,
+Volkswagen,Alto 800,2021,4.17 Lakh,Fluidic 1.6 VTVT SX,79K km,Petrol,Manual,TS22,
+Mahindra,Wagon R,2022,6.54 Lakh,ZX CVT,50K km,Diesel,Automatic,TS35,
+Ford,Creta,2016,11.16 Lakh,Alpha MT,95K km,Petrol,Manual,TS07,
+Honda,Thar,2015,3.65 Lakh,T,65.5K km,Diesel,Manual,TS07,
+Volkswagen,Sonet,2018,3.20 Lakh,ZXi AMT,78K km,Diesel,Manual,TS08,
+Hyundai,Innova,2020,3.46 Lakh,XV,60K km,Petrol,Automatic,TS11,
+Maruti,Grand i10,2014,4.58 Lakh,VXi AMT,60.5K km,Petrol,Automatic,TG09,
+Tata,Kwid,2018,3.96 Lakh,AX 5 Petrol MT 5 STR,68.5K km,Petrol,Manual,TS07,
+Renault,Verna,2023,4.09 Lakh,Pure iCNG,19.5K km,Petrol,Manual,TS08,
+MG,Amaze,2019,6.52 Lakh,HTX 1.0 iMT,39.5K km,Petrol,Manual,TS11,
+Maruti,Grand i10 Nios,2014,12.43 Lakh,VXi,48.5K km,Petrol,Automatic,AP28,
+Maruti,Seltos,2016,3.02 Lakh,ZX MT,51K km,Petrol,Manual,TS07,
+Renault,Swift Dzire,2018,4.45 Lakh,S 1.6 AT CRDi,27K km,Petrol,Manual,TS15,
+Maruti,Alto 800,2023,5.68 Lakh,Titanium 1.2 Ti,2K km,Petrol,Automatic,TS08,
+Maruti,Alto 800,2018,4.87 Lakh,XT ,82.5K km,Diesel,Manual,TS02,
+Maruti,Amaze,2015,4.39 Lakh,Comfortline 1.2L ,123K km,Petrol,Manual,TS08,
+Maruti,i20 Active,2022,2.85 Lakh,RXZ EASY,26K km,Diesel,Manual,TS07,
+Hyundai,i10,2023,3.18 Lakh,1.0 RXT AMT,44K km,Petrol,Manual,TS08,
+Hyundai,Elite i20,2014,5.53 Lakh,VXi AMT,92.5K km,Petrol,Manual,AP28,
+Hyundai,Alto 800,2017,2.20 Lakh,VX Petrol,90K km,Petrol,Manual,TS11,
+Maruti,Creta,2015,2.10 Lakh,Asta 1.2 ,18.5K km,Petrol,Automatic,TS09,
+Ford,Kwid,2019,4.01 Lakh,XM 4x2 7 STR,30.5K km,Petrol,Manual,TS07,
+Volkswagen,Kwid,2018,6.41 Lakh,RXZ EASY,103K km,Diesel,Manual,TS09,
+Hyundai,Taigun,2014,2.10 Lakh,Ambition 1.0L TSI MT,93.5K km,Petrol,Manual,AP16,
+Renault,Baleno,2019,2.60 Lakh,Active 1.0L TSI MT,43.5K km,Petrol,Manual,TS08,
+Tata,Swift,2020,10.69 Lakh,Sportz 1.2 Kappa VTVT,82K km,Petrol,Manual,TS07,
+Renault,Exter,2016,11.53 Lakh,Alpha 1.2 MT,112.5K km,Petrol,Manual,TS10,
+Maruti,Creta,2015,10.63 Lakh,HTK 1.5,28K km,Petrol,Manual,TS11,
+Maruti,Figo,2018,7.86 Lakh,SX AT 1.2 ,68.5K km,Petrol,Manual,TS08,
+Hyundai,Baleno,2022,3.44 Lakh,Alpha 1.2,5.5K km,Petrol,Manual,TS09,
+Maruti,Seltos,2015,3.32 Lakh,Accomplished AMT,28K km,Petrol,Manual,TS11,
+Maruti,Kwid,2015,8.95 Lakh,Sportz 1.2 Kappa VTVT,24K km,Petrol,Manual,TS10,
+Hyundai,Elite i20,2020,5.57 Lakh,Sigma 1.2 MT,54K km,Diesel,Manual,TS07,
+Mahindra,Micra Active,2021,6.39 Lakh,Allstar 1.5 ,71K km,Diesel,Manual,TS08,
+Kia,Baleno,2024,13.32 Lakh,Delta 1.2,24K km,Diesel,Manual,TG05,
+Toyota,Grand i10 Nios,2014,3.83 Lakh,Sportz 1.1 iRDE2,113.5K km,Petrol,Manual,TS08,
+Hyundai,Amaze,2015,1.97 Lakh,XZ Plus,81K km,Petrol,Manual,TS07,
+Renault,Ameo,2019,2.99 Lakh,EX 1.4 CRDi,24K km,Petrol,Manual,TS10,
+Hyundai,Seltos,2021,5.73 Lakh,GT Plus 1.5 TSI EVO DSG,50.5K km,Petrol,Manual,TS09,
+Honda,City,2018,5.83 Lakh,Highline1.2L ,66K km,Petrol,Manual,TS08,
+Hyundai,Alcazar,2023,2.89 Lakh,AX5 Diesel MT 7 STR,14K km,Petrol,Automatic,TS08,
+Kia,Elite i20,2020,5.20 Lakh,1.0 RXT AMT Opt,43K km,Petrol,Manual,TS09,
+Maruti,Baleno,2013,3.15 Lakh,Titanium+ 1.5L TDCi,47K km,Petrol,Automatic,AP09,
+Maruti,Xcent,2013,8.98 Lakh,SX 1.0 Turbo iMT,71.5K km,Petrol,Manual,AP15,
+Maruti,Sonet,2020,2.38 Lakh,Signature 2.0 AT Petrol,33.5K km,Petrol,Manual,TS08,
+Honda,Creta,2019,3.40 Lakh,Sharp 1.5 Petrol CVT,48K km,Petrol,Manual,TS10,
+Hyundai,Harrier,2019,11.42 Lakh,Alpha 1.2,54K km,Petrol,Automatic,TS13,
+Hyundai,Seltos,2015,6.02 Lakh,Sportz 1.1 iRDE2,42.5K km,Petrol,Manual,TS09,
+Hyundai,Celerio,2018,5.14 Lakh,Alpha AT Petrol,77.5K km,Petrol,Manual,TS09,
+Maruti,Figo Aspire,2019,7.24 Lakh,Zeta Automatic,11K km,Diesel,Manual,TS15,
+Hyundai,Altroz,2020,8.51 Lakh,1.2 VX i,87.5K km,Petrol,Manual,TS16,
+Renault,Alcazar,2017,2.50 Lakh,Style 1.0L TSI AT,69.5K km,Petrol,Manual,TS09,
+Renault,Verna,2019,4.26 Lakh,SX Petrol,53K km,Petrol,Manual,TS07,
+Volkswagen,Jazz,2023,9.42 Lakh,,49K km,Petrol,Automatic,TS28,
+Maruti,Baleno,2022,3.32 Lakh,,65K km,Petrol,Manual,TS07,
+Maruti,Ignis,2022,4.34 Lakh,,61K km,Petrol,Manual,TS11,
+Hyundai,Celerio,2023,2.98 Lakh,,30K km,Diesel,Manual,TS11,
+Hyundai,Ignis,2016,5.34 Lakh,,52.5K km,Diesel,Manual,TS07,
+Ford,Magnite,2013,6.12 Lakh,,115.5K km,Petrol,Manual,AP29,
+Maruti,i10,2017,3.46 Lakh,,103K km,Petrol,Manual,AP16,
+Kia,Dzire,2021,3.38 Lakh,,34.5K km,Petrol,Manual,TS11,
+Renault,XUV700,2018,10.70 Lakh,,32K km,Petrol,Manual,TS09,
+Hyundai,Punch,2017,6.23 Lakh,,73.5K km,Petrol,Automatic,AP16,
+Nissan,Sonet,2017,7.12 Lakh,,100K km,Petrol,Manual,TS07,
+Maruti,Dzire,2018,13.07 Lakh,,70K km,Petrol,Manual,TS08,
+Hyundai,Elevate,2022,5.37 Lakh,,58.5K km,Petrol,Manual,TS11,
+Honda,Creta,2015,5.35 Lakh,,72K km,Diesel,Automatic,TS07,
+Volkswagen,Figo Aspire,2017,3.70 Lakh,,136K km,Petrol,Manual,TS09,
+Kia,Tiago,2019,7.04 Lakh,,52K km,Petrol,Manual,TS10,
+Honda,Polo,2017,14.92 Lakh,,82K km,Diesel,Manual,TS07,
+Maruti,Triber,2018,10.92 Lakh,,106.5K km,Petrol,Automatic,TS07,
+Hyundai,Kwid,2021,12.34 Lakh,,95K km,Petrol,Manual,AP39,
+Hyundai,Celerio,2019,2.79 Lakh,,84K km,Petrol,Automatic,TS09,
+Maruti,City,2019,4.18 Lakh,,67K km,Petrol,Manual,TS10,
+Hyundai,Elite i20,2016,7.02 Lakh,,65K km,Petrol,Manual,TS13,
+Kia,Hexa,2021,17.62 Lakh,,66K km,Diesel,Manual,TS07,
+Hyundai,Triber,2021,4.24 Lakh,,52.5K km,Diesel,Manual,TS09,
+Tata,Slavia,2019,6.91 Lakh,,89.5K km,Petrol,Automatic,TS09,
+Kia,Slavia,2022,7.13 Lakh,,45K km,Petrol,Manual,TS07,
+Maruti,Grand i10,2015,4.13 Lakh,,80.5K km,Petrol,Automatic,TS10,
+Ford,Ignis,2016,2.81 Lakh,,76K km,Petrol,Manual,TS07,
+Tata,Seltos,2023,3.46 Lakh,,37K km,Diesel,Automatic,TS07,
+Hyundai,Xcent,2023,6.14 Lakh,,22K km,Petrol,Automatic,TS07,
+Hyundai,Baleno,2014,2.28 Lakh,,83.5K km,Petrol,Automatic,AP28,
+Honda,Punch,2021,5.75 Lakh,,47.5K km,Petrol,Manual,TS08,
+Maruti,Grand i10,2023,15.19 Lakh,,52K km,Petrol,Automatic,TS07,
+Maruti,Ignis,2017,5.57 Lakh,,65K km,Petrol,Manual,TS07,
+Datsun,Polo,2021,6.81 Lakh,,57K km,Petrol,Manual,TS04,
+Maruti,Baleno,2015,4.85 Lakh,,65.5K km,Petrol,Manual,TS07,
+Maruti,Creta,2018,13.75 Lakh,,71K km,Petrol,Automatic,TS07,
+Nissan,i10,2022,9.36 Lakh,,21.5K km,Petrol,Manual,AP39,
+Hyundai,Grand i10,2011,3.44 Lakh,,19.5K km,Petrol,Manual,AP10,
+Maruti,Tigor,2019,5.19 Lakh,,48K km,Petrol,Manual,TS07,
+Mahindra,Creta,2023,5.21 Lakh,,18.5K km,Cng,Automatic,TS07,
+Tata,Virtus,2023,5.69 Lakh,,74K km,Petrol,Manual,TS09,
+Kia,Polo,2020,2.63 Lakh,,41K km,Petrol,Manual,AP39,
+Maruti,Baleno,2017,5.19 Lakh,,55K km,Petrol,Manual,TS07,
+Honda,XUV700,2023,6.65 Lakh,,15K km,Diesel,Manual,TS07,
+Hyundai,Kwid,2019,6.73 Lakh,,67K km,Petrol,Manual,TS09,
+Ford,EcoSport,2016,7.92 Lakh,,93.5K km,Petrol,Automatic,TS10,
+Tata,Venue,2023,6.77 Lakh,,20.5K km,Petrol,Manual,TS08,
+Volkswagen,Tucson,2017,9.89 Lakh,,30K km,Petrol,Manual,TS08,
+Renault,Hector,2021,9.98 Lakh,,36.5K km,Petrol,Manual,TS08,
+Renault,Baleno,2018,4.61 Lakh,,93.5K km,Petrol,Automatic,TS09,
+Maruti,i10,2024,5.49 Lakh,,30K km,Petrol,Automatic,TS07,
+Honda,XL6,2019,10.34 Lakh,,51K km,Petrol,Automatic,TS09,
+Hyundai,Baleno,2019,4.14 Lakh,,33.5K km,Diesel,Manual,TS07,
+Tata,Amaze,2017,4.59 Lakh,,86.5K km,Petrol,Automatic,TS15,
+Renault,Creta,2023,6.89 Lakh,,19.5K km,Petrol,Manual,TS07,
+Skoda,Slavia,2022,3.39 Lakh,,37K km,Petrol,Automatic,TS07,
+Skoda,Creta,2023,4.85 Lakh,,11K km,Petrol,Manual,TS07,
+Hyundai,,2019,4.80 Lakh,,29K km,Petrol,Manual,TS10,
+Maruti,,2021,5.23 Lakh,,33K km,Petrol,Manual,TS07,
+Kia,,2022,13.17 Lakh,,35K km,Petrol,Manual,TS07,
+Hyundai,,2014,3.19 Lakh,,55.5K km,Petrol,Manual,TS08,
+Maruti,,2017,3.59 Lakh,,68K km,Petrol,Automatic,AP37,
+Tata,,2022,5.76 Lakh,,23K km,Petrol,Manual,TS09,
+Hyundai,,2015,8.95 Lakh,,72.5K km,Petrol,Automatic,AP21,
+Maruti,,2023,12.77 Lakh,,13K km,Diesel,Manual,AP40,
+Volkswagen,,2017,3.67 Lakh,,106K km,Petrol,Manual,TS08,
+Maruti,,2018,6.09 Lakh,,36.5K km,Petrol,Manual,TS08,
+Hyundai,,2021,20.42 Lakh,,31.5K km,Petrol,Manual,TS13,
+Hyundai,,2016,3.26 Lakh,,59K km,Petrol,Automatic,TS08,
+Hyundai,,2014,4.65 Lakh,,58K km,Petrol,Manual,AP10,
+Tata,,2022,7.68 Lakh,,48K km,Diesel,Automatic,AP39,
+Hyundai,,2019,25.24 Lakh,,47.5K km,Petrol,Manual,TS11,
+Volkswagen,,2023,13.45 Lakh,,80K km,Diesel,Manual,TS07,
+Volkswagen,,2014,4.85 Lakh,,145K km,Petrol,Automatic,TS07,
+Maruti,,2021,2.97 Lakh,,34.5K km,Diesel,Manual,TS08,
+Mahindra,,2025,9.50 Lakh,,17.5K km,Petrol,Manual,TG09,
+Renault,,2018,6.25 Lakh,,42.5K km,Diesel,Manual,TS09,
+Ford,,2017,3.51 Lakh,,126.5K km,Petrol,Automatic,TS10,
+Hyundai,,2022,8.86 Lakh,,23.5K km,Petrol,Manual,TS07,
+Hyundai,,2022,11.62 Lakh,,19K km,Petrol,Manual,AP39,
+MG,,2021,13.74 Lakh,,48.5K km,Petrol,Automatic,TS07,
+Maruti,,2018,,,78K km,Petrol,Automatic,AP31,
+Hyundai,,2015,,,52.5K km,Petrol,Manual,TS07,
+Maruti,,2021,,,60.5K km,Petrol,Manual,TS23,
+Maruti,,2021,,,40K km,Petrol,Automatic,TS10,
+Honda,,2015,,,138K km,Diesel,Automatic,TS07,
+Hyundai,,2019,,,64K km,Petrol,Manual,TS08,
+Skoda,,2022,,,40.5K km,Petrol,Manual,TS07,
+Hyundai,,2023,,,19K km,,Automatic,AP39,
+,,,,,,,Manual,,
